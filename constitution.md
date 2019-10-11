@@ -16,7 +16,6 @@ Host University of an Association Championship._
 1. In this constitution: 
     - **Adjudication Core** means the Chief Adjudicator and any Deputy Chief Adjudicators appointed under this Constitution.
     - **Association** refers to the Australian Intervarsity Debating Association
-    - **Australian Council** is the annual meeting of the Australian Intervarsity Debating Association and is the body, which governs the operation of the Association and the Australian Intervarsity Debating Championships. ~todo~
     - **Cis-male** is any person who was assigned a male gender identity at birth and continues to identify as male.
     - **Composite Team** a team of participants from more than one university formed by the host university.  The composition of the team is stable for the duration of the tournament.
     - **Contingent** means all the participants registered at a tournament from one university
@@ -31,7 +30,6 @@ Host University of an Association Championship._
 
     - **Extraordinary General Meeting** means a general meeting of the association other than an annual general meeting.
     - **Secretariat** refers to the **President**, **Secretary** and **Treasurer** of the **Association**.
-    - **Swing Team** means a team formed by the host university to create an even number of teams in the draw. The composition of this team is not stable.
     - **Tertiary Course** means an academic programme conducted by a Schedule III institution that is a course which is an undergraduate or post graduate course leading to the award of a degree or diploma.
     - **Wom\*n’s Council** is the body which meets to discuss issues pertaining to **non-cis men**
     - the **Act** means the Associations Incorporation Act 2009.
@@ -46,11 +44,10 @@ Host University of an Association Championship._
 ### (2) Membership generally
 
 1. A person is eligible to be a member of the association if: 
-    1. person is a natural person, and
-    2. the person has applied and been approved for membership of the association in accordance with clause 3.
-    3. the person is a nominated representative for one of the affiliated debating societies in Australia OR the person is a current member of the committee
+    1. the person is a natural person.
+    2. the person is a member of a Debating Group recognised by the association, as defined in section ~todo~.
 
-2. A person is taken to be a member of the association if: ~todo~
+2. A person is taken to be a member of the association if:
     1. person is a natural person, and
     2. the person was: 
         1. in the case of an unincorporated body that is registered as the association - a member of that unincorporated body immediately before the registration of the association, or
@@ -66,11 +63,11 @@ Host University of an Association Championship._
     2. must be lodged (including by electronic means, if the committee so determines) with the secretary of the association.
 
 2. As soon as practicable after receiving an application for membership, the secretary must refer the application to the committee, which is to determine whether to approve or to reject the application.
-3. As soon as practicable after the committee makes that determination, the secretary must: 
-    1. notify the applicant in writing (including by email or other electronic means, if the committee so determines) that the committee approved or rejected the application (whichever is applicable), and
-    2. if the committee approved the application, request the applicant to pay (within the period of 28 days after receipt by the applicant of the notification) the sum payable under this constitution by a member as entrance fee and annual subscription.
 
-4. The secretary must, on payment by the applicant of the amounts referred to in subclause (3) (b) within the period referred to in that provision, enter or cause to be entered the applicant’s name in the register of members and, on the name being so entered, the applicant becomes a member of the association.
+3. As soon as practicable after the committee makes that determination, the secretary must: 
+    1. notify the applicant in writing (including by email or other electronic means, if the committee so determines) that the committee approved or rejected the application (whichever is applicable)
+
+4. The secretary must enter or cause to be entered the applicant’s name in the register of members and, on the name being so entered, the applicant becomes a member of the association.
 
 
 ### (4) Cessation of membership
@@ -79,7 +76,7 @@ Host University of an Association Championship._
     1. dies, or
     2. resigns membership, or
     3. is expelled from the association, or
-    4. fails to pay the annual membership fee under clause 8 (2) within 3 months after the fee is due.
+    4. is determined by the committee to no longer a member of any of the debating groups associated with the association.
 
 ### (5) Membership entitlements not transferable
 
@@ -94,7 +91,10 @@ Host University of an Association Championship._
 
 ### (7) Register of members
 
-1. The secretary must establish and maintain a register of members of the association (whether in written or electronic form) specifying the name and postal, residential or email address of each person who is a member of the association together with the date on which the person became a member.
+1. The secretary must establish and maintain a register of members of the association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the association together with the date on which the person became a member.
+    1. The secretary may construe "primary institution and debating group", within any policies set by the committee, as they see fit.
+    2. Generally, the "primary institution" shall be the institution at which the member last studied to attain a tertiary degree.
+    3. Generally, the "primary debating group" shall the the debating group at which the member primarily participates
 2. The register of members must be kept in New South Wales: 
     1. at the main premises of the association, or
     2. if the association has no premises, at the association’s official address.
@@ -104,7 +104,7 @@ Host University of an Association Championship._
 5. If a member requests that any information contained on the register about the member (other than the member’s name) not be available for inspection, that information must not be made available for inspection.
 6. A member must not use information about a person obtained from the register to contact or send material to the person, other than for: 
 
-    1. the purposes of sending the person a newsletter, a notice in respect of a meeting or other event relating to the association or other material relating to the association, or
+    1. the purposes of sending the person a newsletter; a notice in respect of a meeting or other event relating to the association; or other communications relating to the association, or
     2. any other purpose necessary to comply with a requirement of the Act or the Regulation.
 
 7. If the register of members is kept in electronic form:
@@ -112,10 +112,6 @@ Host University of an Association Championship._
     1. it must be convertible into hard copy, and
     2. the requirements in subclauses (2) and (3) apply as if a reference to the register of members is a reference to a current hard copy of the register of members.
 
-
-### Fees and subscriptions
-
-1. A member of the association must, on admission to membership, pay to the association a fee of $50 or, if some other amount is determined by the committee, that other amount.
 
 ### Members’ liabilities
 
@@ -131,6 +127,7 @@ Host University of an Association Championship._
 
 1. A complaint may be made to the committee by any person that a member of the association: 
     1. has refused or neglected to comply with a provision or provisions of this constitution, or
+    2. has refused or neglected to comply with a policy or procedure. ~todo~
     2. has wilfully acted in a manner prejudicial to the interests of the association.
 
 2. The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
@@ -154,14 +151,83 @@ whichever is the later.
 4. At a general meeting of the association convened under subclause (3): 
     1. no business other than the question of the appeal is to be transacted, and
     2. the committee and the member must be given the opportunity to state their respective cases orally or in writing, or both, and
-    3. the members present are to vote by secret ballot on the question of whether the resolution should be confirmed or revoked.
+    3. the representative members present are to vote by secret ballot on the question of whether the resolution should be confirmed or revoked.
 
-5. The appeal is to be determined by a simple majority of votes cast by members of the association.
+5. The appeal is to be determined by a simple majority of votes cast by representative members of the association.
 
 
-### (13) 	Membership of Institutions
+### (13) 	Register of Associated Groups
 
-1. ~todo~
+1. The Secretary of the Association must establish and maintain a register of associated institutions, and their debating groups. 
+    1. In this section, "debating group" may be taken to be any organised group of students associated with that institution, who participate in and/or run debating tournaments.
+
+2. The Register shall contain such details as the Secretary sees fit, but must include:
+    1. The name of the institution,
+    2. The name of the debating group,
+    3. Contact details for that instituion's debating group, if they are available.
+
+3. The debating group of any tertiary education institution in Australia shall be on the register of associated groups, provided:
+    1. the group has a representative member, or is in the process of nominating one, as described in section ~todo~.
+    3. the committee has determined the group is the best representative of a distinct institution.
+        1. Where multiple groups wish to claim association, the committee shall decide which are eligible to be associated.
+    3. the committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
+
+4. Where doubt arises about what constitutes a distinct 'institution' or 'debating group', the committee may construe this as they wish, but should do so with reference to the existance of:
+    1. A substantially different university administration or student organisation, and a distinct identity.
+    2. A separation by significant geographical distance, such that attending another group's events would involve a considerable amount of travel.
+    3. A different degree-awarding institution.
+
+5. Should a member of the association feel that the Committee has improperly exercised their discretion in subsections 1 through 4 of section 13, a two thirds majority of Representative Members may override their decision.
+
+### (14) Representative Members
+
+~todo: exact wording~
+- You nominate yourself, subject to conditions
+- If more than one person nominates, the debating group should have a policy, and the committee can make a determination.
+- In the meantime, that institution's previous representative member shall remain as such, or if they don't have one, the institution gets no vote.
+- Representative Members can delegate, through their group's policy, or in writing, to any other person eligible to be a representative member for that instition.
+- That delegate may act as the 'acting' representitive member for so long as the Rep Member who delegated instructs.
+- Acting Rep Members are taken as Rep members except for the purposes of paying any fees.
+
+1. Any member of the association may make a motion to the committee to nominate themselves to be a 'Representative Member' for their primary debating group, so long as:
+    1. Those groups may decide their own policy to select a representative member.
+    2. Their are a part of that debating group, as defined by that debating group's own rules, and interpreted by the committee.
+    3. They are at least 18 years old. ~Note: This is a requirement of the Act.~
+    4. They are not a representative member of another debating group.
+
+2. Representative members may delegate their voting rights, in writing, or by virtue of the policy of the debating group they represent, to any other person eligible to be a representative member, for as long as that Representative Member wishes.
+
+### (16) Wom\*ns Subcommittee
+~todo: wording~
+
+1. The Committee shall designate a subcommittee for Wom\*ns Affairs.
+2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. ~todo~
+3. The Subcommittee shall be chaired by the Vice-President for Wom\*ns Affairs, or in their absence, another non-cis male member of the association.
+4. The Subcommittee shall produce a report to the Members of the Association and the Committeee, detailing measures suggested ...
+    1. This report should be presented at each Annual General Meeting, or as the Subcommittee sees fit.
+5. The Subcommittee shall organise events and activites as it sees fit, in accordance with its goals.
+6. The Subcommittee shall recommend for the consideration of a general meeting policies and procedures to promote its goals.
+
+### () Equity Subcommittee
+
+~todo: wording~
+
+1. The committee shall designate a subcommittee for Equity
+2. The Subcommittee shall have the goal of ...
+3. The Subcommittee shall be chaired by the Vice-President for Equity
+4. The Subcommittee shall produce a report to the Members of the Association and the Committeee, detailing measures suggested ...
+    1. This report should be presented at each Annual General Meeting, or as the Subcommittee sees fit.
+5. The Subcommittee shall organise events and activites as it sees fit, in accordance with its goals.
+6. The Subcommittee shall recommend for the consideration of a general meeting policies and procedures to promote its goals.
+
+### Fees and subscriptions
+
+1. There shall be no fee for membership of the association.
+2. There shall be a fee of $50 (Australian Dollars) applied to representative members of the association. This fee shall be payable:
+    1. Not later than 10 business days after the initial general meeting of the association.
+    2. Not later than 10 business days after an annual general meeting of the assocation.
+3. The committee shall have the power to reduce the fee, or temporarily suspend the requirement of a representative member to pay this fee.
+
 
 ## Part 3	The Committee
 ### (13)	Powers of the committee
@@ -187,7 +253,7 @@ whichever is the later.
     4. the treasurer,
     5. the secretary.
 
-4. A committee member may hold up to 2 offices (other than both the offices of president and vice-president).
+4. A committee member may hold up to 2 offices, though the offices of president, treasurer and secretary must be held by three seperate committee members.
 5. There is no maximum number of consecutive terms for which a committee member may hold office. 
 Note. Schedule 1 to the Act provides that an association’s constitution is to address the maximum number of consecutive terms of office of any office-bearers on the committee.
 6. Each member of the committee is, subject to this constitution, to hold office until immediately before the election of committee members at the annual general meeting next following the date of the member’s election, and is eligible for re-election.
@@ -195,8 +261,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 ### (15) Election of committee members
 
 1. Nominations of candidates for election as office-bearers of the association or as ordinary committee members: 
-    1. must be made in writing, signed by 1 members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination), and
-    2. must be delivered to the secretary of the association at least 1 day before the date fixed for the holding of the annual general meeting at which the election is to take place.
+    1. must be made in writing, signed by 1 members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination).
 
 2. If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated are taken to be elected and further nominations are to be received at the annual general meeting.
 3. If insufficient further nominations are received, any vacant positions remaining on the committee are taken to be casual vacancies.
@@ -223,18 +288,13 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 ### (18) President
 1. It is the duty of the president of the association to: 
     1. Chair the meeting of the Australian Council
-    2. Appoint another member of the Executive to the Chair where they are unable to attend the tournament. Where the President does not make such an appointment, Council for that tournament may make the appointment.
+    2. Appoint another member of the committee to the Chair where they are unable to attend the tournament. Where the President does not make such an appointment, Council for that tournament may make the appointment.
     3. Act as a representative for the Association.
-    4. Co-ordinate the activities of the Executive.
+    4. Co-ordinate the activities of the committee.
     5. Be a signatory to any bank account of the Association. 
     6. Assist a host university in seeking sponsorship.
-    7. Submit a report to Australian Council providing an overview of the activities of the Executive and the Association.
+    7. Submit a report to Australian Council providing an overview of the activities of the committee and the Association.
 
-### (19) Vice President Administration
-
-1. It is the duty of the treasurer of the association to ensure: 
-    1. that all money due to the association is collected and received and that all payments authorised by the association are made, and
-    2. that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
 
 ### (18) Casual vacancies
 
@@ -300,6 +360,13 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
 ## General meetings
+
+### (25) Meetings - participation in
+
+1. Any member of the association is entitled to attend any general meeting.
+2. Any member of the association is entitled, insofar as the chair of the meeting allows, to bring to attention any business relevant to the Assocation, or to submit a motion to be voted on by the association.
+3. Any member of the association is entitled, insofar as the chair of the meeting allows, to comment on business raised by virtue of Section 25, Subsection 2.
+
 ### (25) Annual general meetings - holding of
 
 1. The association must hold its first annual general meeting within 18 months after its registration under the Act.
@@ -321,11 +388,11 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 ### (27) Special general meetings - calling of
 
 1. The committee may, whenever it thinks fit, convene a special general meeting of the association.
-2. The committee must, on the requisition of at least 5% of the total number of members, convene a special general meeting of the association.
-3. A requisition of members for a special general meeting: 
+2. The committee must, on the requisition of at least 2 representative members, convene a special general meeting of the association.
+3. A requisition of representative members for a special general meeting: 
     1. must be in writing, and
     2. must state the purpose or purposes of the meeting, and
-    3. must be signed by the members making the requisition, and
+    3. must be signed by the representative members making the requisition, and
     4. must be lodged with the secretary, and
     5. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
 
@@ -340,13 +407,13 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 1. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 2. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 
-    Note. A special resolution must be passed in accordance with section 39 of the Act.~
 
 3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 26 (2).
 4. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 ### (29) Quorum for general meetings
 
 1. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
+    1. The chair of the meeting is to be considered 'entitled to vote', and thus counts towards quorum, even if they are not a representative member.
 2. Five members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
 3. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting: 
     1. if convened on the requisition of members—is to be dissolved, and
@@ -356,8 +423,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 
 ### (30) Presiding member
 
-1. The president or, in the president’s absence, the vice-president, is to preside as chairperson at each general meeting of the association.
-2. If the president and the vice-president are absent or unwilling to act, the members present must elect one of their number to preside as chairperson at the meeting.
+1. The president or, in the president’s absence, such person as the president may see fit to appoint, is to preside as chairperson at each general meeting of the association.
 
 ### (31) Adjournment
 
@@ -381,10 +447,8 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 
 ### (34) Voting
 
-1. On any question arising at a general meeting of the association a member has one vote only.
-2. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting is entitled to exercise a second or casting vote.
-3. A member is not entitled to vote at any general meeting of the association unless all money due and payable by the member to the association has been paid.
-4. A member is not entitled to vote at any general meeting of the association if the member is under 18 years of age.
+1. Only Representative Members shall be entitled to vote on motions at any general meeting.
+    1. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting may cast a vote to break the tie.
 
 ### (35) Proxy votes not permitted
 
@@ -402,7 +466,16 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 1. A general meeting may be held at 2 or more venues using any technology approved by the committee that gives each of the association’s members a reasonable opportunity to participate.
 2. A member of an association who participates in a general meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
 
+
 ## Miscellaneous
+
+### (38) Policies
+
+~todo: how do policies work -> who approves~
+
+1. The association may create policies and procedures ...
+
+
 ### (38) Insurance
 
 1. The association may effect and maintain insurance.
@@ -462,12 +535,9 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     1. in the case of a notice given or served personally, on the date on which it is received by the addressee, and
     2. in the case of a notice sent by pre-paid post, on the date when it would have been delivered in the ordinary course of post, and
     3. in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
+
 ### (47) Financial year
 
 1. The financial year of the association is: 
     1. the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
     2. each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
-
-    Notes.
-    1. Schedule 1 to the Act provides that an association’s constitution is to address the association’s financial year.
-    2. Clause 19 of the Regulation contains a substitute clause 47 for certain associations incorporated under the Associations Incorporation Act 1984.
