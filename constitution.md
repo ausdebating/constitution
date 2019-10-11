@@ -7,10 +7,68 @@ Host University of an Association Championship._
 
 ## Table of Contents
 
-[[toc]]
+- [A. Definitions](#definitions)
+    - [(1) Definitions](#definitions)
+- [B. Membership](#membership)
+    - [(2) Membership generally](#membershipgenerally)
+    - [(3) Application for membership](#applicationformembership)
+    - [(4) Cessation of membership](#cessationofmembership)
+    - [(5) Membership entitlements not transferable](#membershipentitlementsnottransferable)
+    - [(6) Resignation of membership](#resignationofmembership)
+    - [(7) Register of members](#registerofmembers)
+    - [(8) Members’ liabilities](#membersliabilities)
+    - [(9) Resolution of disputes](#resolutionofdisputes)
+    - [(10) Disciplining of members](#discipliningofmembers)
+    - [(11) Right of appeal of disciplined member](#rightofappealofdisciplinedmember)
+    - [(12) Register of Associated Groups](#registerofassociatedgroups)
+    - [(13) Representative Members](#representativemembers)
+    - [(14) Wom\*ns Subcommittee](#womnssubcommittee)
+    - [(15) Equity Subcommittee](#equitysubcommittee)
+    - [(16) Fees and subscriptions](#feesandsubscriptions)
+- [C. The Committee](#thecommittee)
+    - [(17) Powers of the committee](#powersofthecommittee)
+    - [(18) Composition and membership of committee](#compositionandmembershipofcommittee)
+    - [(19) Election of committee members](#electionofcommitteemembers)
+    - [(20) Secretary](#secretary)
+    - [(21) Treasurer](#treasurer)
+    - [(22) President](#president)
+    - [(23) Casual vacancies](#casualvacancies)
+    - [(24) Removal of committee members](#removalofcommitteemembers)
+    - [(25) Committee meetings and quorum](#committeemeetingsandquorum)
+    - [(26) Appointment of association members as committee members to constitute quorum](#appointmentofassociationmembersascommitteememberstoconstitutequorum)
+    - [(27) Use of technology at committee meetings](#useoftechnologyatcommitteemeetings)
+    - [(28) Delegation by committee to sub-committee](#delegationbycommitteetosubcommittee)
+    - [(29) Voting and decisions](#votinganddecisions)
+- [D. General meetings](#generalmeetings)
+    - [(30) Meetings - participation in](#meetingsparticipationin)
+    - [(31) Annual general meetings - holding of](#annualgeneralmeetingsholdingof)
+    - [(32) Annual general meetings - calling of and business at](#annualgeneralmeetingscallingofandbusinessat)
+    - [(33) Special general meetings - calling of](#specialgeneralmeetingscallingof)
+    - [(34) Notice](#notice)
+    - [(35) Quorum for general meetings](#quorumforgeneralmeetings)
+    - [(36) Presiding member](#presidingmember)
+    - [(37) Adjournment](#adjournment)
+    - [(38) Making of decisions](#makingofdecisions)
+    - [(39) Special resolutions](#specialresolutions)
+    - [(40) Voting](#voting)
+    - [(41) Proxy votes not permitted](#proxyvotesnotpermitted)
+    - [(42) Postal or electronic ballots](#postalorelectronicballots)
+    - [(43) Use of technology at general meetings](#useoftechnologyatgeneralmeetings)
+- [E. Miscellaneous](#miscellaneous)
+    - [(44) Policies](#policies)
+    - [(45) Insurance](#insurance)
+    - [(46) Funds - source](#fundssource)
+    - [(47) Funds - management](#fundsmanagement)
+    - [(48) Association is non-profit](#associationisnonprofit)
+    - [(49) Distribution of property on winding up of association](#distributionofpropertyonwindingupofassociation)
+    - [(50) Change of name, objects and constitution](#changeofnameobjectsandconstitution)
+    - [(51) Custody of books etc](#custodyofbooksetc)
+    - [(52) Inspection of books etc](#inspectionofbooksetc)
+    - [(53) Service of notices](#serviceofnotices)
+    - [(54) Financial year](#financialyear)
 
 <span id="definitions"></span>
-## Definitions
+## A. Definitions
 
 <span id="definitions"></span>
 ### (1) Definitions
@@ -38,13 +96,13 @@ Host University of an Association Championship._
     3. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
 <span id="membership"></span>
-## Membership
+## B. Membership
 <span id="membershipgenerally"></span>
 ### (2) Membership generally
 
 1. A person is eligible to be a member of the association if:
     1. the person is a natural person.
-    2. the person is a member of a Debating Group recognised by the association, as defined in section 
+    2. the person is a member of a Debating Group recognised by the association, as defined in section
 
 2. A person is taken to be a member of the association if:
     1. person is a natural person, and
@@ -134,7 +192,7 @@ Host University of an Association Championship._
 
 1. A complaint may be made to the committee by any person that a member of the association:
     1. has refused or neglected to comply with a provision or provisions of this constitution, or
-    2. has refused or neglected to comply with a policy or procedure. 
+    2. has refused or neglected to comply with a policy or procedure.
     3. has wilfully acted in a manner prejudicial to the interests of the association.
 
 ```diff
@@ -214,7 +272,7 @@ whichever is the later.
 1. Any member of the association may make a motion to the committee to nominate themselves to be a 'Representative Member' for their primary debating group, so long as:
     1. Those groups may decide their own policy to select a representative member.
     2. Their are a part of that debating group, as defined by that debating group's own rules, and interpreted by the committee.
-    3. They are at least 18 years old. 
+    3. They are at least 18 years old.
 
     4. They are not a representative member of another debating group.
 
@@ -233,7 +291,7 @@ whichever is the later.
 
 
 1. The Committee shall designate a subcommittee for Wom\*ns Affairs.
-2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. 
+2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating.
 3. The Subcommittee shall be chaired by the Vice-President for Wom\*ns Affairs, or in their absence, another non-cis male member of the association.
 4. The Subcommittee shall produce a report to the Members of the Association and the Committeee, detailing measures suggested ...
     1. This report should be presented at each Annual General Meeting, or as the Subcommittee sees fit.
@@ -268,7 +326,7 @@ whichever is the later.
 
 
 <span id="thecommittee"></span>
-## The Committee
+## C. The Committee
 <span id="powersofthecommittee"></span>
 ### (17) Powers of the committee
 
@@ -412,7 +470,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
 <span id="generalmeetings"></span>
-## General meetings
+## D. General meetings
 
 <span id="meetingsparticipationin"></span>
 ### (30) Meetings - participation in
@@ -535,7 +593,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 
 
 <span id="miscellaneous"></span>
-## Miscellaneous
+## E. Miscellaneous
 
 <span id="policies"></span>
 ### (44) Policies
@@ -624,5 +682,6 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 1. The financial year of the association is:
     1. the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
     2. each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
+
 
 
