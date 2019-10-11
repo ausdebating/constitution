@@ -102,7 +102,11 @@ Host University of an Association Championship._
 
 1. A person is eligible to be a member of the association if:
     1. the person is a natural person.
-    2. the person is a member of a Debating Group recognised by the association, as defined in section <span style="color: red">todo</span>.
+    2. the person is a member of a Debating Group recognised by the association, as defined in section 
+```diff
++ todo
+```
+.
 
 2. A person is taken to be a member of the association if:
     1. person is a natural person, and
@@ -192,7 +196,11 @@ Host University of an Association Championship._
 
 1. A complaint may be made to the committee by any person that a member of the association:
     1. has refused or neglected to comply with a provision or provisions of this constitution, or
-    2. has refused or neglected to comply with a policy or procedure. <span style="color: red">todo</span>
+    2. has refused or neglected to comply with a policy or procedure. 
+```diff
++ todo
+```
+
     2. has wilfully acted in a manner prejudicial to the interests of the association.
 
 2. The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
@@ -234,7 +242,11 @@ whichever is the later.
     3. Contact details for that instituion's debating group, if they are available.
 
 3. The debating group of any tertiary education institution in Australia shall be on the register of associated groups, provided:
-    1. the group has a representative member, or is in the process of nominating one, as described in section <span style="color: red">todo</span>.
+    1. the group has a representative member, or is in the process of nominating one, as described in section 
+```diff
++ todo
+```
+.
     3. the committee has determined the group is the best representative of a distinct institution.
         1. Where multiple groups wish to claim association, the committee shall decide which are eligible to be associated.
     3. the committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
@@ -249,7 +261,11 @@ whichever is the later.
 <span id="representativemembers"></span>
 ### (13) Representative Members
 
-<span style="color: red">todo: exact wording</span>
+
+```diff
++ todo: exact wording
+```
+
 - You nominate yourself, subject to conditions
 - If more than one person nominates, the debating group should have a policy, and the committee can make a determination.
 - In the meantime, that institution's previous representative member shall remain as such, or if they don't have one, the institution gets no vote.
@@ -260,17 +276,30 @@ whichever is the later.
 1. Any member of the association may make a motion to the committee to nominate themselves to be a 'Representative Member' for their primary debating group, so long as:
     1. Those groups may decide their own policy to select a representative member.
     2. Their are a part of that debating group, as defined by that debating group's own rules, and interpreted by the committee.
-    3. They are at least 18 years old. <span style="color: red">Note: This is a requirement of the Act.</span>
+    3. They are at least 18 years old. 
+
+```diff
++ Note: This is a requirement of the Act.
+```
+
     4. They are not a representative member of another debating group.
 
 2. Representative members may delegate their voting rights, in writing, or by virtue of the policy of the debating group they represent, to any other person eligible to be a representative member, for as long as that Representative Member wishes.
 
 <span id="womnssubcommittee"></span>
 ### (14) Wom\*ns Subcommittee
-<span style="color: red">todo: wording</span>
+
+```diff
++ todo: wording
+```
+
 
 1. The Committee shall designate a subcommittee for Wom\*ns Affairs.
-2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. <span style="color: red">todo</span>
+2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. 
+```diff
++ todo
+```
+
 3. The Subcommittee shall be chaired by the Vice-President for Wom\*ns Affairs, or in their absence, another non-cis male member of the association.
 4. The Subcommittee shall produce a report to the Members of the Association and the Committeee, detailing measures suggested ...
     1. This report should be presented at each Annual General Meeting, or as the Subcommittee sees fit.
@@ -280,7 +309,11 @@ whichever is the later.
 <span id="equitysubcommittee"></span>
 ### (15) Equity Subcommittee
 
-<span style="color: red">todo: wording</span>
+
+```diff
++ todo: wording
+```
+
 
 1. The committee shall designate a subcommittee for Equity
 2. The Subcommittee shall have the goal of ...
@@ -573,7 +606,11 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 <span id="policies"></span>
 ### (44) Policies
 
-<span style="color: red">todo: how do policies work -> who approves</span>
+
+```diff
++  who approves
+```
+
 
 1. The association may create policies and procedures ...
 
