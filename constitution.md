@@ -8,70 +8,70 @@ Host University of an Association Championship._
 ## Table of Contents
 
 - [B. Definitions](#definitions)
-    - [(1)  Definitions](#definitions)
+    - [(1) Definitions](#definitions)
 - [C. Membership](#membership)
-    - [(2)  Membership generally](#membershipgenerally)
-    - [(3)  Application for membership](#applicationformembership)
-    - [(4)  Cessation of membership](#cessationofmembership)
-    - [(5)  Membership entitlements not transferable](#membershipentitlementsnottransferable)
-    - [(6)  Resignation of membership](#resignationofmembership)
-    - [(7)  Register of members](#registerofmembers)
+    - [(2) Membership generally](#membershipgenerally)
+    - [(3) Application for membership](#applicationformembership)
+    - [(4) Cessation of membership](#cessationofmembership)
+    - [(5) Membership entitlements not transferable](#membershipentitlementsnottransferable)
+    - [(6) Resignation of membership](#resignationofmembership)
+    - [(7) Register of members](#registerofmembers)
     - [(8) Members’ liabilities](#membersliabilities)
-    - [(9) 	Resolution of disputes](#resolutionofdisputes)
-    - [(10) 	Disciplining of members](#discipliningofmembers)
-    - [(11)  	Right of appeal of disciplined member](#rightofappealofdisciplinedmember)
-    - [(12)  	Register of Associated Groups](#registerofassociatedgroups)
-    - [(13)  Representative Members](#representativemembers)
-    - [(14)  Wom\*ns Subcommittee](#womnssubcommittee)
-    - [(15)  Equity Subcommittee](#equitysubcommittee)
+    - [(9) Resolution of disputes](#resolutionofdisputes)
+    - [(10) Disciplining of members](#discipliningofmembers)
+    - [(11) Right of appeal of disciplined member](#rightofappealofdisciplinedmember)
+    - [(12) Register of Associated Groups](#registerofassociatedgroups)
+    - [(13) Representative Members](#representativemembers)
+    - [(14) Wom\*ns Subcommittee](#womnssubcommittee)
+    - [(15) Equity Subcommittee](#equitysubcommittee)
     - [(16) Fees and subscriptions](#feesandsubscriptions)
-- [D. Part 3	The Committee](#partthecommittee)
-    - [(17) 	Powers of the committee](#powersofthecommittee)
-    - [(18) 	Composition and membership of committee](#compositionandmembershipofcommittee)
-    - [(19)  Election of committee members](#electionofcommitteemembers)
-    - [(20)  Secretary](#secretary)
-    - [(21)  Treasurer](#treasurer)
-    - [(22)  President](#president)
-    - [(23)  Casual vacancies](#casualvacancies)
-    - [(24)  Removal of committee members](#removalofcommitteemembers)
-    - [(25)  Committee meetings and quorum](#committeemeetingsandquorum)
-    - [(26)  Appointment of association members as committee members to constitute quorum](#appointmentofassociationmembersascommitteememberstoconstitutequorum)
-    - [(27)  Use of technology at committee meetings](#useoftechnologyatcommitteemeetings)
-    - [(28)  Delegation by committee to sub-committee](#delegationbycommitteetosubcommittee)
-    - [(29)  Voting and decisions](#votinganddecisions)
+- [D. The Committee](#thecommittee)
+    - [(17) Powers of the committee](#powersofthecommittee)
+    - [(18) Composition and membership of committee](#compositionandmembershipofcommittee)
+    - [(19) Election of committee members](#electionofcommitteemembers)
+    - [(20) Secretary](#secretary)
+    - [(21) Treasurer](#treasurer)
+    - [(22) President](#president)
+    - [(23) Casual vacancies](#casualvacancies)
+    - [(24) Removal of committee members](#removalofcommitteemembers)
+    - [(25) Committee meetings and quorum](#committeemeetingsandquorum)
+    - [(26) Appointment of association members as committee members to constitute quorum](#appointmentofassociationmembersascommitteememberstoconstitutequorum)
+    - [(27) Use of technology at committee meetings](#useoftechnologyatcommitteemeetings)
+    - [(28) Delegation by committee to sub-committee](#delegationbycommitteetosubcommittee)
+    - [(29) Voting and decisions](#votinganddecisions)
 - [E. General meetings](#generalmeetings)
-    - [(30)  Meetings - participation in](#meetingsparticipationin)
-    - [(31)  Annual general meetings - holding of](#annualgeneralmeetingsholdingof)
-    - [(32)  Annual general meetings - calling of and business at](#annualgeneralmeetingscallingofandbusinessat)
-    - [(33)  Special general meetings - calling of](#specialgeneralmeetingscallingof)
-    - [(34)  Notice](#notice)
-    - [(35)  Quorum for general meetings](#quorumforgeneralmeetings)
-    - [(36)  Presiding member](#presidingmember)
-    - [(37)  Adjournment](#adjournment)
-    - [(38)  Making of decisions](#makingofdecisions)
-    - [(39)  Special resolutions](#specialresolutions)
-    - [(40)  Voting](#voting)
-    - [(41)  Proxy votes not permitted](#proxyvotesnotpermitted)
-    - [(42)  Postal or electronic ballots](#postalorelectronicballots)
-    - [(43)  Use of technology at general meetings](#useoftechnologyatgeneralmeetings)
+    - [(30) Meetings - participation in](#meetingsparticipationin)
+    - [(31) Annual general meetings - holding of](#annualgeneralmeetingsholdingof)
+    - [(32) Annual general meetings - calling of and business at](#annualgeneralmeetingscallingofandbusinessat)
+    - [(33) Special general meetings - calling of](#specialgeneralmeetingscallingof)
+    - [(34) Notice](#notice)
+    - [(35) Quorum for general meetings](#quorumforgeneralmeetings)
+    - [(36) Presiding member](#presidingmember)
+    - [(37) Adjournment](#adjournment)
+    - [(38) Making of decisions](#makingofdecisions)
+    - [(39) Special resolutions](#specialresolutions)
+    - [(40) Voting](#voting)
+    - [(41) Proxy votes not permitted](#proxyvotesnotpermitted)
+    - [(42) Postal or electronic ballots](#postalorelectronicballots)
+    - [(43) Use of technology at general meetings](#useoftechnologyatgeneralmeetings)
 - [F. Miscellaneous](#miscellaneous)
-    - [(44)  Policies](#policies)
-    - [(45)  Insurance](#insurance)
-    - [(46)  Funds - source](#fundssource)
-    - [(47)  Funds - management](#fundsmanagement)
-    - [(48)  Association is non-profit](#associationisnonprofit)
-    - [(49)  Distribution of property on winding up of association](#distributionofpropertyonwindingupofassociation)
-    - [(50)  Change of name, objects and constitution](#changeofnameobjectsandconstitution)
-    - [(51)  Custody of books etc](#custodyofbooksetc)
-    - [(52)  Inspection of books etc](#inspectionofbooksetc)
-    - [(53)  Service of notices](#serviceofnotices)
-    - [(54)  Financial year](#financialyear)
+    - [(44) Policies](#policies)
+    - [(45) Insurance](#insurance)
+    - [(46) Funds - source](#fundssource)
+    - [(47) Funds - management](#fundsmanagement)
+    - [(48) Association is non-profit](#associationisnonprofit)
+    - [(49) Distribution of property on winding up of association](#distributionofpropertyonwindingupofassociation)
+    - [(50) Change of name, objects and constitution](#changeofnameobjectsandconstitution)
+    - [(51) Custody of books etc](#custodyofbooksetc)
+    - [(52) Inspection of books etc](#inspectionofbooksetc)
+    - [(53) Service of notices](#serviceofnotices)
+    - [(54) Financial year](#financialyear)
 
 <span id="definitions"></span>
 ## B. Definitions
 
 <span id="definitions"></span>
-### (1)  Definitions
+### (1) Definitions
 
 1. In this constitution:
     - **Association** refers to the Australian Intervarsity Debating Association
@@ -98,11 +98,11 @@ Host University of an Association Championship._
 <span id="membership"></span>
 ## C. Membership
 <span id="membershipgenerally"></span>
-### (2)  Membership generally
+### (2) Membership generally
 
 1. A person is eligible to be a member of the association if:
     1. the person is a natural person.
-    2. the person is a member of a Debating Group recognised by the association, as defined in section ~todo~.
+    2. the person is a member of a Debating Group recognised by the association, as defined in section <span style="color: red">todo</span>.
 
 2. A person is taken to be a member of the association if:
     1. person is a natural person, and
@@ -114,7 +114,7 @@ Host University of an Association Championship._
 3. A person is taken to be a member of the association if the person was one of the individuals on whose behalf an application for registration of the association under section 6 (1) (a) of the Act was made.
 
 <span id="applicationformembership"></span>
-### (3)  Application for membership
+### (3) Application for membership
 
 1. An application by a person for membership of the association:
     1. must be made in writing (including by email or other electronic means, if the committee so determines) in the form determined by the committee, and
@@ -129,7 +129,7 @@ Host University of an Association Championship._
 
 
 <span id="cessationofmembership"></span>
-### (4)  Cessation of membership
+### (4) Cessation of membership
 
 1. A person ceases to be a member of the association if the person:
     1. dies, or
@@ -138,20 +138,20 @@ Host University of an Association Championship._
     4. is determined by the committee to no longer a member of any of the debating groups associated with the association.
 
 <span id="membershipentitlementsnottransferable"></span>
-### (5)  Membership entitlements not transferable
+### (5) Membership entitlements not transferable
 
 1. A right, privilege or obligation which a person has by reason of being a member of the association:
     1. is not capable of being transferred or transmitted to another person, and
     2. terminates on cessation of the person’s membership.
 
 <span id="resignationofmembership"></span>
-### (6)  Resignation of membership
+### (6) Resignation of membership
 
 1. A member of the association may resign from membership of the association by first giving to the secretary written notice of at least 1 month (or any other period that the committee may determine) of the member’s intention to resign and, on the expiration of the period of notice, the member ceases to be a member.
 2. If a member of the association ceases to be a member under subclause (1), and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
 
 <span id="registerofmembers"></span>
-### (7)  Register of members
+### (7) Register of members
 
 1. The secretary must establish and maintain a register of members of the association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the association together with the date on which the person became a member.
     1. The secretary may construe "primary institution and debating group", within any policies set by the committee, as they see fit.
@@ -181,18 +181,18 @@ Host University of an Association Championship._
 1. The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 8.
 
 <span id="resolutionofdisputes"></span>
-### (9) 	Resolution of disputes
+### (9) Resolution of disputes
 
 1. A dispute between a member and another member (in their capacity as members) of the association, or a dispute between a member or members and the association, are to be referred to a Community Justice Centre for mediation under the Community Justice Centres Act 1983.
 2. If a dispute is not resolved by mediation within 3 months of the referral to a Community Justice Centre, the dispute is to be referred to arbitration.
 3. 	The Commercial Arbitration Act 2010 applies to a dispute referred to arbitration.
 
 <span id="discipliningofmembers"></span>
-### (10) 	Disciplining of members
+### (10) Disciplining of members
 
 1. A complaint may be made to the committee by any person that a member of the association:
     1. has refused or neglected to comply with a provision or provisions of this constitution, or
-    2. has refused or neglected to comply with a policy or procedure. ~todo~
+    2. has refused or neglected to comply with a policy or procedure. <span style="color: red">todo</span>
     2. has wilfully acted in a manner prejudicial to the interests of the association.
 
 2. The committee may refuse to deal with a complaint if it considers the complaint to be trivial or vexatious in nature.
@@ -209,7 +209,7 @@ Host University of an Association Championship._
 whichever is the later.
 
 <span id="rightofappealofdisciplinedmember"></span>
-### (11)  	Right of appeal of disciplined member
+### (11) Right of appeal of disciplined member
 
 1. A member may appeal to the association in general meeting against a resolution of the committee under clause 11, within 7 days after notice of the resolution is served on the member, by lodging with the secretary a notice to that effect.
 2. The notice may, but need not, be accompanied by a statement of the grounds on which the member intends to rely for the purposes of the appeal.
@@ -223,7 +223,7 @@ whichever is the later.
 
 
 <span id="registerofassociatedgroups"></span>
-### (12)  	Register of Associated Groups
+### (12) Register of Associated Groups
 
 1. The Secretary of the Association must establish and maintain a register of associated institutions, and their debating groups.
     1. In this section, "debating group" may be taken to be any organised group of students associated with that institution, who participate in and/or run debating tournaments.
@@ -234,7 +234,7 @@ whichever is the later.
     3. Contact details for that instituion's debating group, if they are available.
 
 3. The debating group of any tertiary education institution in Australia shall be on the register of associated groups, provided:
-    1. the group has a representative member, or is in the process of nominating one, as described in section ~todo~.
+    1. the group has a representative member, or is in the process of nominating one, as described in section <span style="color: red">todo</span>.
     3. the committee has determined the group is the best representative of a distinct institution.
         1. Where multiple groups wish to claim association, the committee shall decide which are eligible to be associated.
     3. the committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
@@ -247,9 +247,9 @@ whichever is the later.
 5. Should a member of the association feel that the Committee has improperly exercised their discretion in subsections 1 through 4 of section 13, a two thirds majority of Representative Members may override their decision.
 
 <span id="representativemembers"></span>
-### (13)  Representative Members
+### (13) Representative Members
 
-~todo: exact wording~
+<span style="color: red">todo: exact wording</span>
 - You nominate yourself, subject to conditions
 - If more than one person nominates, the debating group should have a policy, and the committee can make a determination.
 - In the meantime, that institution's previous representative member shall remain as such, or if they don't have one, the institution gets no vote.
@@ -260,17 +260,17 @@ whichever is the later.
 1. Any member of the association may make a motion to the committee to nominate themselves to be a 'Representative Member' for their primary debating group, so long as:
     1. Those groups may decide their own policy to select a representative member.
     2. Their are a part of that debating group, as defined by that debating group's own rules, and interpreted by the committee.
-    3. They are at least 18 years old. ~Note: This is a requirement of the Act.~
+    3. They are at least 18 years old. <span style="color: red">Note: This is a requirement of the Act.</span>
     4. They are not a representative member of another debating group.
 
 2. Representative members may delegate their voting rights, in writing, or by virtue of the policy of the debating group they represent, to any other person eligible to be a representative member, for as long as that Representative Member wishes.
 
 <span id="womnssubcommittee"></span>
-### (14)  Wom\*ns Subcommittee
-~todo: wording~
+### (14) Wom\*ns Subcommittee
+<span style="color: red">todo: wording</span>
 
 1. The Committee shall designate a subcommittee for Wom\*ns Affairs.
-2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. ~todo~
+2. The Subcommittee shall have the goal of promoting the participation of wom\*n in Australian Debating. <span style="color: red">todo</span>
 3. The Subcommittee shall be chaired by the Vice-President for Wom\*ns Affairs, or in their absence, another non-cis male member of the association.
 4. The Subcommittee shall produce a report to the Members of the Association and the Committeee, detailing measures suggested ...
     1. This report should be presented at each Annual General Meeting, or as the Subcommittee sees fit.
@@ -278,9 +278,9 @@ whichever is the later.
 6. The Subcommittee shall recommend for the consideration of a general meeting policies and procedures to promote its goals.
 
 <span id="equitysubcommittee"></span>
-### (15)  Equity Subcommittee
+### (15) Equity Subcommittee
 
-~todo: wording~
+<span style="color: red">todo: wording</span>
 
 1. The committee shall designate a subcommittee for Equity
 2. The Subcommittee shall have the goal of ...
@@ -300,10 +300,10 @@ whichever is the later.
 3. The committee shall have the power to reduce the fee, or temporarily suspend the requirement of a representative member to pay this fee.
 
 
-<span id="partthecommittee"></span>
-## D. Part 3	The Committee
+<span id="thecommittee"></span>
+## D. The Committee
 <span id="powersofthecommittee"></span>
-### (17) 	Powers of the committee
+### (17) Powers of the committee
 
 1. Subject to the Act, the Regulation, this constitution and any resolution passed by the association in general meeting, the committee:
     1. is to control and manage the affairs of the association, and
@@ -311,7 +311,7 @@ whichever is the later.
     3. has power to perform all the acts and do all things that appear to the committee to be necessary or desirable for the proper management of the affairs of the association.
 
 <span id="compositionandmembershipofcommittee"></span>
-### (18) 	Composition and membership of committee
+### (18) Composition and membership of committee
 
 1. The committee is to consist of:
     1. the office-bearers of the association, and
@@ -333,7 +333,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 6. Each member of the committee is, subject to this constitution, to hold office until immediately before the election of committee members at the annual general meeting next following the date of the member’s election, and is eligible for re-election.
 
 <span id="electionofcommitteemembers"></span>
-### (19)  Election of committee members
+### (19) Election of committee members
 
 1. Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
     1. must be made in writing, signed by 1 members of the association and accompanied by the written consent of the candidate (which may be endorsed on the form of the nomination).
@@ -346,7 +346,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 7. A person nominated as a candidate for election as an office-bearer or as an ordinary committee member of the association must be a member of the association.
 
 <span id="secretary"></span>
-### (20)  Secretary
+### (20) Secretary
 1. The secretary of the association must, as soon as practicable after being appointed as secretary, lodge notice with the association of his or her address.
 2. It is the duty of the secretary to keep minutes (whether in written or electronic form) of:
     1. all appointments of office-bearers and members of the committee, and
@@ -357,13 +357,13 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. The signature of the chairperson may be transmitted by electronic means for the purposes of subclause (3).
 
 <span id="treasurer"></span>
-### (21)  Treasurer
+### (21) Treasurer
 1. It is the duty of the treasurer of the association to ensure:
     1. that all money due to the association is collected and received and that all payments authorised by the association are made, and
     2. that correct books and accounts are kept showing the financial affairs of the association, including full details of all receipts and expenditure connected with the activities of the association.
 
 <span id="president"></span>
-### (22)  President
+### (22) President
 1. It is the duty of the president of the association to:
     1. Chair the meeting of the Australian Council
     2. Appoint another member of the committee to the Chair where they are unable to attend the tournament. Where the President does not make such an appointment, Council for that tournament may make the appointment.
@@ -375,7 +375,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 
 
 <span id="casualvacancies"></span>
-### (23)  Casual vacancies
+### (23) Casual vacancies
 
 1. In the event of a casual vacancy occurring in the membership of the committee, the committee may appoint a member of the association to fill the vacancy and the member so appointed is to hold office, subject to this constitution, until the annual general meeting next following the date of the appointment.
 2. A casual vacancy in the office of a member of the committee occurs if the member:
@@ -390,13 +390,13 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     9. is prohibited from being a director of a company under Part 2D.6 (Disqualification from managing corporations) of the Corporations Act 2001 of the Commonwealth.
 
 <span id="removalofcommitteemembers"></span>
-### (24)  Removal of committee members
+### (24) Removal of committee members
 
 1. The association in general meeting may by resolution remove any member of the committee from the office of member before the expiration of the member’s term of office and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
 2. If a member of the committee to whom a proposed resolution referred to in subclause (1) relates makes representations in writing to the secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of the association, the secretary or the president may send a copy of the representations to each member of the association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
 
 <span id="committeemeetingsandquorum"></span>
-### (25)  Committee meetings and quorum
+### (25) Committee meetings and quorum
 
 1. The committee must meet at least 3 times in each period of 12 months at the place and time that the committee may determine.
 2. Additional meetings of the committee may be convened by the president or by any member of the committee.
@@ -410,20 +410,20 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     2. if the president and the vice-president are absent or unwilling to act, one of the remaining members of the committee chosen by the members present at the meeting is to preside.
 
 <span id="appointmentofassociationmembersascommitteememberstoconstitutequorum"></span>
-### (26)  Appointment of association members as committee members to constitute quorum
+### (26) Appointment of association members as committee members to constitute quorum
 
 1. If at any time the number of committee members is less than the number required to constitute a quorum for a committee meeting, the existing committee members may appoint a sufficient number of members of the association as committee members to enable the quorum to be constituted.
 2. A member of the committee so appointed is to hold office, subject to this constitution, until the annual general meeting next following the date of the appointment.
 3. This clause does not apply to the filling of a casual vacancy to which clause 18 applies.
 
 <span id="useoftechnologyatcommitteemeetings"></span>
-### (27)  Use of technology at committee meetings
+### (27) Use of technology at committee meetings
 
 1. A committee meeting may be held at 2 or more venues using any technology approved by the committee that gives each of the committee’s members a reasonable opportunity to participate.
 2. A committee member who participates in a committee meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
 
 <span id="delegationbycommitteetosubcommittee"></span>
-### (28)  Delegation by committee to sub-committee
+### (28) Delegation by committee to sub-committee
 
 1. The committee may, by instrument in writing, delegate to one or more sub-committees (consisting of the member or members of the association that the committee thinks fit) the exercise of any of the functions of the committee that are specified in the instrument, other than:
     1. this power of delegation, and
@@ -437,7 +437,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 7. A sub-committee may meet and adjourn as it thinks proper.
 
 <span id="votinganddecisions"></span>
-### (29)  Voting and decisions
+### (29) Voting and decisions
 
 1. Questions arising at a meeting of the committee or of any sub-committee appointed by the committee are to be determined by a majority of the votes of members of the committee or sub-committee present at the meeting.
 2. Each member present at a meeting of the committee or of any sub-committee appointed by the committee (including the person presiding at the meeting) is entitled to one vote but, in the event of an equality of votes on any question, the person presiding may exercise a second or casting vote.
@@ -448,14 +448,14 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 ## E. General meetings
 
 <span id="meetingsparticipationin"></span>
-### (30)  Meetings - participation in
+### (30) Meetings - participation in
 
 1. Any member of the association is entitled to attend any general meeting.
 2. Any member of the association is entitled, insofar as the chair of the meeting allows, to bring to attention any business relevant to the Assocation, or to submit a motion to be voted on by the association.
 3. Any member of the association is entitled, insofar as the chair of the meeting allows, to comment on business raised by virtue of Section 25, Subsection 2.
 
 <span id="annualgeneralmeetingsholdingof"></span>
-### (31)  Annual general meetings - holding of
+### (31) Annual general meetings - holding of
 
 1. The association must hold its first annual general meeting within 18 months after its registration under the Act.
 2. The association must hold its annual general meetings:
@@ -463,7 +463,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     2. within any later time that may be allowed or prescribed under section 37 (2) (b) of the Act.
 
 <span id="annualgeneralmeetingscallingofandbusinessat"></span>
-### (32)  Annual general meetings - calling of and business at
+### (32) Annual general meetings - calling of and business at
 
 1. The annual general meeting of the association is, subject to the Act and to clause 25, to be convened on the date and at the place and time that the committee thinks fit.
 2. In addition to any other business which may be transacted at an annual general meeting, the business of an annual general meeting is to include the following:
@@ -475,7 +475,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 3. An annual general meeting must be specified as that type of meeting in the notice convening it.
 
 <span id="specialgeneralmeetingscallingof"></span>
-### (33)  Special general meetings - calling of
+### (33) Special general meetings - calling of
 
 1. The committee may, whenever it thinks fit, convene a special general meeting of the association.
 2. The committee must, on the requisition of at least 2 representative members, convene a special general meeting of the association.
@@ -493,7 +493,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     2. a signature may be transmitted, and a requisition may be lodged, by electronic means.
 
 <span id="notice"></span>
-### (34)  Notice
+### (34) Notice
 
 1. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 2. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
@@ -502,7 +502,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 3. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under clause 26 (2).
 4. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 <span id="quorumforgeneralmeetings"></span>
-### (35)  Quorum for general meetings
+### (35) Quorum for general meetings
 
 1. No item of business is to be transacted at a general meeting unless a quorum of members entitled under this constitution to vote is present during the time the meeting is considering that item.
     1. The chair of the meeting is to be considered 'entitled to vote', and thus counts towards quorum, even if they are not a representative member.
@@ -514,19 +514,19 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum.
 
 <span id="presidingmember"></span>
-### (36)  Presiding member
+### (36) Presiding member
 
 1. The president or, in the president’s absence, such person as the president may see fit to appoint, is to preside as chairperson at each general meeting of the association.
 
 <span id="adjournment"></span>
-### (37)  Adjournment
+### (37) Adjournment
 
 1. The chairperson of a general meeting at which a quorum is present may, with the consent of the majority of members present at the meeting, adjourn the meeting from time to time and place to place, but no business is to be transacted at an adjourned meeting other than the business left unfinished at the meeting at which the adjournment took place.
 2. If a general meeting is adjourned for 14 days or more, the secretary must give written or oral notice of the adjourned meeting to each member of the association stating the place, date and time of the meeting and the nature of the business to be transacted at the meeting.
 3. Except as provided in subclauses (1) and (2), notice of an adjournment of a general meeting or of the business to be transacted at an adjourned meeting is not required to be given.
 
 <span id="makingofdecisions"></span>
-### (38)  Making of decisions
+### (38) Making of decisions
 
 1. A question arising at a general meeting of the association is to be determined by:
     1. a show of hands or, if the meeting is one to which clause 37 applies, any appropriate corresponding method that the committee may determine, or
@@ -537,31 +537,31 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. If the question is to be determined by a written ballot, the ballot is to be conducted in accordance with the directions of the chairperson.
 
 <span id="specialresolutions"></span>
-### (39)  Special resolutions
+### (39) Special resolutions
 
 1. A special resolution may only be passed by the association in accordance with section 39 of the Act.
 
 <span id="voting"></span>
-### (40)  Voting
+### (40) Voting
 
 1. Only Representative Members shall be entitled to vote on motions at any general meeting.
     1. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting may cast a vote to break the tie.
 
 <span id="proxyvotesnotpermitted"></span>
-### (41)  Proxy votes not permitted
+### (41) Proxy votes not permitted
 
 1. Proxy voting must not be undertaken at or in respect of a general meeting.
 
     Note. Schedule 1 to the Act provides that an association’s constitution is to address whether members of the association are entitled to vote by proxy at general meetings.
 
 <span id="postalorelectronicballots"></span>
-### (42)  Postal or electronic ballots
+### (42) Postal or electronic ballots
 
 1. The association may hold a postal or electronic ballot (as the committee determines) to determine any issue or proposal (other than an appeal under clause 12).
 2. A postal or electronic ballot is to be conducted in accordance with Schedule 3 to the Regulation.
 
 <span id="useoftechnologyatgeneralmeetings"></span>
-### (43)  Use of technology at general meetings
+### (43) Use of technology at general meetings
 
 1. A general meeting may be held at 2 or more venues using any technology approved by the committee that gives each of the association’s members a reasonable opportunity to participate.
 2. A member of an association who participates in a general meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
@@ -571,40 +571,40 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 ## F. Miscellaneous
 
 <span id="policies"></span>
-### (44)  Policies
+### (44) Policies
 
-~todo: how do policies work -> who approves~
+<span style="color: red">todo: how do policies work -> who approves</span>
 
 1. The association may create policies and procedures ...
 
 
 <span id="insurance"></span>
-### (45)  Insurance
+### (45) Insurance
 
 1. The association may effect and maintain insurance.
 
 <span id="fundssource"></span>
-### (46)  Funds - source
+### (46) Funds - source
 
 1. The funds of the association are to be derived from entrance fees and annual subscriptions of members, donations and, subject to any resolution passed by the association in general meeting, any other sources that the committee determines.
 2. All money received by the association must be deposited as soon as practicable and without deduction to the credit of the association’s bank or other authorised deposit-taking institution account.
 3. The association must, as soon as practicable after receiving any money, issue an appropriate receipt.
 
 <span id="fundsmanagement"></span>
-### (47)  Funds - management
+### (47) Funds - management
 
 1. Subject to any resolution passed by the association in general meeting, the funds of the association are to be used solely in pursuance of the objects of the association in the manner that the committee determines.
 2. All cheques, drafts, bills of exchange, promissory notes and other negotiable instruments must be signed by 2 authorised signatories.
 
 <span id="associationisnonprofit"></span>
-### (48)  Association is non-profit
+### (48) Association is non-profit
 
 1. Subject to the Act and the Regulation, the association must apply its funds and assets solely in pursuance of the objects of the association and must not conduct its affairs so as to provide a pecuniary gain for any of its members.
 
     Note. Section 5 of the Act defines pecuniary gain for the purpose of this clause.
 
 <span id="distributionofpropertyonwindingupofassociation"></span>
-### (49)  Distribution of property on winding up of association
+### (49) Distribution of property on winding up of association
 
 1. Subject to the Act and the Regulations, in a winding up of the association, any surplus property of the association is to be transferred to another organisation with similar objects and which is not carried on for the profit or gain of its individual members.
 2. In this clause, a reference to the surplus property of an association is a reference to that property of the association remaining after satisfaction of the debts and liabilities of the association and the costs, charges and expenses of the winding up of the association.
@@ -612,19 +612,19 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     Note. Section 65 of the Act provides for distribution of surplus property on the winding up of an association.
 
 <span id="changeofnameobjectsandconstitution"></span>
-### (50)  Change of name, objects and constitution
+### (50) Change of name, objects and constitution
 
 1. An application for registration of a change in the association’s name, objects or constitution in accordance with section 10 of the Act is to be made by the public officer or a committee member.
 
 <span id="custodyofbooksetc"></span>
-### (51)  Custody of books etc
+### (51) Custody of books etc
 
 1. Except as otherwise provided by this constitution, all records, books and other documents relating to the association must be kept in New South Wales:
     1. at the main premises of the association, in the custody of the public officer or a member of the association (as the committee determines), or
     2. if the association has no premises, at the association’s official address, in the custody of the public officer.
 
 <span id="inspectionofbooksetc"></span>
-### (52)  Inspection of books etc
+### (52) Inspection of books etc
 
 1. The following documents must be open to inspection, free of charge, by a member of the association at any reasonable hour:
     1. records, books and other financial documents of the association,
@@ -635,7 +635,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 3. Despite subclauses (1) and (2), the committee may refuse to permit a member of the association to inspect or obtain a copy of records of the association that relate to confidential, personal, employment, commercial or legal matters or where to do so may be prejudicial to the interests of the association.
 
 <span id="serviceofnotices"></span>
-### (53)  Service of notices
+### (53) Service of notices
 
 1. For the purpose of this constitution, a notice may be served on or given to a person:
     1. by delivering it to the person personally, or
@@ -648,9 +648,10 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
     3. in the case of a notice sent by facsimile transmission or some other form of electronic transmission, on the date it was sent or, if the machine from which the transmission was sent produces a report indicating that the notice was sent on a later date, on that date.
 
 <span id="financialyear"></span>
-### (54)  Financial year
+### (54) Financial year
 
 1. The financial year of the association is:
     1. the period of time commencing on the date of incorporation of the association and ending on the following 30 June, and
     2. each period of 12 months after the expiration of the previous financial year of the association, commencing on 1 July and ending on the following 30 June.
+
 
