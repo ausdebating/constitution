@@ -7,68 +7,10 @@ Host University of an Association Championship._
 
 ## Table of Contents
 
-- [B. Definitions](#definitions)
-    - [(1) Definitions](#definitions)
-- [C. Membership](#membership)
-    - [(2) Membership generally](#membershipgenerally)
-    - [(3) Application for membership](#applicationformembership)
-    - [(4) Cessation of membership](#cessationofmembership)
-    - [(5) Membership entitlements not transferable](#membershipentitlementsnottransferable)
-    - [(6) Resignation of membership](#resignationofmembership)
-    - [(7) Register of members](#registerofmembers)
-    - [(8) Members’ liabilities](#membersliabilities)
-    - [(9) Resolution of disputes](#resolutionofdisputes)
-    - [(10) Disciplining of members](#discipliningofmembers)
-    - [(11) Right of appeal of disciplined member](#rightofappealofdisciplinedmember)
-    - [(12) Register of Associated Groups](#registerofassociatedgroups)
-    - [(13) Representative Members](#representativemembers)
-    - [(14) Wom\*ns Subcommittee](#womnssubcommittee)
-    - [(15) Equity Subcommittee](#equitysubcommittee)
-    - [(16) Fees and subscriptions](#feesandsubscriptions)
-- [D. The Committee](#thecommittee)
-    - [(17) Powers of the committee](#powersofthecommittee)
-    - [(18) Composition and membership of committee](#compositionandmembershipofcommittee)
-    - [(19) Election of committee members](#electionofcommitteemembers)
-    - [(20) Secretary](#secretary)
-    - [(21) Treasurer](#treasurer)
-    - [(22) President](#president)
-    - [(23) Casual vacancies](#casualvacancies)
-    - [(24) Removal of committee members](#removalofcommitteemembers)
-    - [(25) Committee meetings and quorum](#committeemeetingsandquorum)
-    - [(26) Appointment of association members as committee members to constitute quorum](#appointmentofassociationmembersascommitteememberstoconstitutequorum)
-    - [(27) Use of technology at committee meetings](#useoftechnologyatcommitteemeetings)
-    - [(28) Delegation by committee to sub-committee](#delegationbycommitteetosubcommittee)
-    - [(29) Voting and decisions](#votinganddecisions)
-- [E. General meetings](#generalmeetings)
-    - [(30) Meetings - participation in](#meetingsparticipationin)
-    - [(31) Annual general meetings - holding of](#annualgeneralmeetingsholdingof)
-    - [(32) Annual general meetings - calling of and business at](#annualgeneralmeetingscallingofandbusinessat)
-    - [(33) Special general meetings - calling of](#specialgeneralmeetingscallingof)
-    - [(34) Notice](#notice)
-    - [(35) Quorum for general meetings](#quorumforgeneralmeetings)
-    - [(36) Presiding member](#presidingmember)
-    - [(37) Adjournment](#adjournment)
-    - [(38) Making of decisions](#makingofdecisions)
-    - [(39) Special resolutions](#specialresolutions)
-    - [(40) Voting](#voting)
-    - [(41) Proxy votes not permitted](#proxyvotesnotpermitted)
-    - [(42) Postal or electronic ballots](#postalorelectronicballots)
-    - [(43) Use of technology at general meetings](#useoftechnologyatgeneralmeetings)
-- [F. Miscellaneous](#miscellaneous)
-    - [(44) Policies](#policies)
-    - [(45) Insurance](#insurance)
-    - [(46) Funds - source](#fundssource)
-    - [(47) Funds - management](#fundsmanagement)
-    - [(48) Association is non-profit](#associationisnonprofit)
-    - [(49) Distribution of property on winding up of association](#distributionofpropertyonwindingupofassociation)
-    - [(50) Change of name, objects and constitution](#changeofnameobjectsandconstitution)
-    - [(51) Custody of books etc](#custodyofbooksetc)
-    - [(52) Inspection of books etc](#inspectionofbooksetc)
-    - [(53) Service of notices](#serviceofnotices)
-    - [(54) Financial year](#financialyear)
+[[toc]]
 
 <span id="definitions"></span>
-## B. Definitions
+## Definitions
 
 <span id="definitions"></span>
 ### (1) Definitions
@@ -96,7 +38,7 @@ Host University of an Association Championship._
     3. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
 <span id="membership"></span>
-## C. Membership
+## Membership
 <span id="membershipgenerally"></span>
 ### (2) Membership generally
 
@@ -326,7 +268,7 @@ whichever is the later.
 
 
 <span id="thecommittee"></span>
-## D. The Committee
+## The Committee
 <span id="powersofthecommittee"></span>
 ### (17) Powers of the committee
 
@@ -470,7 +412,7 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 4. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
 <span id="generalmeetings"></span>
-## E. General meetings
+## General meetings
 
 <span id="meetingsparticipationin"></span>
 ### (30) Meetings - participation in
@@ -593,14 +535,14 @@ Note. Schedule 1 to the Act provides that an association’s constitution is to 
 
 
 <span id="miscellaneous"></span>
-## F. Miscellaneous
+## Miscellaneous
 
 <span id="policies"></span>
 ### (44) Policies
 
 
 ```diff
-+  who approves
++  who approves policies, and what power/limitations do they have?
 ```
 
 
