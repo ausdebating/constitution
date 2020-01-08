@@ -255,11 +255,10 @@ whichever is the later.
     4. The title or office of the person who shall act as that group's representative member.
 
 3. The debating group of any tertiary education institution in Australia shall be on the register of associated groups, provided:
-    1. the committee determines that the group has a policy for deciding on a representative member.
-    2. the group has a representative member, or is in the process of nominating one, as described in section XXXXXX.
-    3. the committee has determined the group is the best representative of a distinct institution.
+    1. the committee determines the title or office within that group which shall entitle it's holder to Representative Member status.
+    2. the committee has determined the group is the best representative of a distinct institution.
         1. Where multiple groups wish to claim association, the committee shall decide which are eligible to be associated.
-    4. the committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
+    3. the committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
 
 4. Where doubt arises about what constitutes a distinct 'institution' or 'debating group', the committee may construe this as they wish, but should do so with reference to the existance of:
     1. A substantially different university administration or student organisation, and a distinct identity.
