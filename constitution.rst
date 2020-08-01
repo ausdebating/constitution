@@ -8,7 +8,7 @@ Host University of an Association Championship.*
 
 
 Table of Contents
-=================
+-----------------
 
 .. sectnum::
    :start: 0
@@ -55,7 +55,7 @@ Definitions
 
 
 Membership
--------------
+----------
 
 
 Membership generally
@@ -557,7 +557,7 @@ Voting and decisions
 #. Any act or thing done or suffered, or purporting to have been done or suffered, by the committee or by a sub-committee appointed by the committee, is valid and effectual despite any defect that may afterwards be discovered in the appointment or qualification of any member of the committee or sub-committee.
 
 
-D. General meetings
+General meetings
 -------------------
 
 
@@ -733,8 +733,8 @@ Use of technology at general meetings
 #. A member of an association who participates in a general meeting using that technology is taken to be present at the meeting and, if the member votes at the meeting, is taken to have voted in person.
 
 
-E. Miscellaneous
-----------------
+Miscellaneous
+-------------
 
 
 Policies
