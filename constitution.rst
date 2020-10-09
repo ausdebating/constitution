@@ -337,11 +337,12 @@ Composition and membership of committee
    #. the Equity Officer,
    #. the Wom\*ns Officer.
 
-#. 
-   A committee member may hold up to 2 offices, though the offices of president, vice-president and secretary must be held by three seperate committee members.
+#. A committee member may hold up to 2 offices, though the offices of president, vice-president and secretary must be held by three seperate committee members.
 
 #. There is no maximum number of consecutive terms for which a committee member may hold office.
-   Note. Schedule 1 to the Act provides that an association’s constitution is to address the maximum number of consecutive terms of office of any office-bearers on the committee.
+
+     Note. Schedule 1 to the Act provides that an association’s constitution is to address the maximum number of consecutive terms of office of any office-bearers on the committee.
+
 #. Each member of the committee is, subject to this constitution, to hold office until immediately before the election of committee members at the annual general meeting next following the date of the member’s election, and is eligible for re-election.
 
 
