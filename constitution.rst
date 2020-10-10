@@ -173,7 +173,7 @@ Members’ liabilities
 ^^^^^^^^^^^^^^^^^^^^
 
 
-#. The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by clause 8.
+#. The liability of a member of the association to contribute towards the payment of the debts and liabilities of the association or the costs, charges and expenses of the winding up of the association is limited to the amount, if any, unpaid by the member in respect of membership of the association as required by this constitution.
 
 
 Resolution of disputes
@@ -268,20 +268,43 @@ Register of Associated Groups
    #. A different degree-awarding institution.
    #. Previous decisions of the committee regarding the construction of what is an 'institution'.
 
-#. Should a member of the association feel that the Committee has improperly exercised their discretion in subsections 1 through 4 of section 13, a two thirds majority of Representative Members may override their decision.
+#. Should a member of the association feel that the Committee has improperly exercised their discretion in subsections 1 through 4 of section 13, a motion at a general meeting, carried by a two-thirds majority, may override their decision.
 
 
 Representative Members
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Where an eligible member of the association also holds the office listed in the Register for a given society, that member may apply to the secretary to be given the status of "Representative Member".
-#. Where that group has not already had a representative member pay a membership fee in the Associations current financial year, the Secretary shall impose a 50$ Representative Membership fee on that person.
-#. On payment of that fee, that member shall become a "Representative Member" for a period not exceeding one year.
-#. Should they continue to hold the office after that year, they may reapply to the Secretary, and pay that fee again.
-#. Representative members may delegate their voting rights, in writing, or by virtue of the policy of the debating group they represent, so long as:
+#. Representative Members shall be members of the association, who are specifically designated as such by the secretary.
+#. The secretary shall maintain a register of Representative Members.
+#. A person ceases to be a Representative Member when they:
+   #. Apply to the secretary in writing to have their representative member status removed; or
+   #. Cease to be a member of the association; or
+   #. Cease to hold the office which made them eligible to apply for Representative Membership; or
+   #. Fail to pay the fee for representative membership (or obtain an exemption) as required by the committee, subject to this constitution.
 
-   #. That Representative member remains both in their office, and a member of the association.
-   #. The delegate is eligble to vote in the assocation (particularly, that they be at least 18 years of age).
+Application for Representative Membership
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. Where an eligible member of the association also holds the office listed in the Register for a given group, that member may apply to the secretary to be given the status of "Representative Member" of that group.
+#. The secretary will then certify that the applicant does hold that office.
+   #. Should the secretary not be able to certify that person is eligible for Representative Membership; they shall refer the question of certification to the Committee for a vote.
+
+#. If there has ever been a Representative Member of that group, and that member did not pay any fees required of them, the applicant shall be required to pay that fee before assuming Representative Membership.
+#. Should a previous Representative Member for that group have paid the fee for Representative Membership in the association's current financial year, the applicant will not be required to pay that fee again for the current financial year.
+   
+#. When the secretary or committee have certified that a person is eligible for Representative Membership, and that person has paid any fees required of them, that person shall become a Representative Member.
+
+Delegation of Voting Rights
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. Representative Members may delegate their voting rights, in writing, or by virtue of the policy of the debating group they represent, so long as:
+
+   #. That Representative member remains both in their office, and a member of the association; and
+   #. The delegate is also a member of the debating group whose representation is being delegated; and
+   #. The delegate is eligble to vote in the assocation (particularly, that they be at least 18 years of age); and
+
+#. Delegation of voting rights shall not cause delegation of Representative Membership.
+#. This provision shall not affect the right of a Representative Member to allow a proxy to vote on their behalf.
 
 .. code-block:: diff
 
@@ -293,12 +316,15 @@ Fees and subscriptions
 
 
 #. There shall be no fee for membership of the association.
-#. There shall be a fee of $50 (Australian Dollars) applied to representative members of the association. This fee shall be payable:
+#. There shall be a fee of $50 (Australian Dollars) applied to representative members of the association. This fee shall be payable once for each financial year of the association. It shall be paid:
 
-   #. Not later than 10 business days after the initial general meeting of the association.
-   #. Not later than 10 business days after an annual general meeting of the assocation.
+   #. Not later than 3 business days before the initial general meeting of the association.
+   #. Not later than 3 business days before an annual general meeting of the assocation.
 
-#. The committee shall have the power to reduce the fee, or temporarily suspend the requirement of a representative member to pay this fee.
+#. The committee shall have the power to:
+   #. Reduce the fee for a Representative Member; or 
+   #. Waive the fee for a Representative Member; or
+   #. Allow a fee for a Representative Member to be due after any deadline described in this clause.
 
 
 C. The Committee
@@ -326,7 +352,7 @@ Composition and membership of committee
    #. the office-bearers of the association, and
    #. at least 3 ordinary committee members, each of whom is to be elected at the annual general meeting of the association under clause 15.
 
-#. The total number of committee members is to be 8.
+#. The total number of committee members is to be 9.
 
 #. The office-bearers of the association are as follows:
 
@@ -337,7 +363,7 @@ Composition and membership of committee
    #. the Equity Officer,
    #. the Wom\*ns Officer.
 
-#. A committee member may hold up to 2 offices, though the offices of president, vice-president and secretary must be held by three seperate committee members.
+#. A committee member may only hold one office concurrently.
 
 #. There is no maximum number of consecutive terms for which a committee member may hold office.
 
@@ -349,18 +375,24 @@ Composition and membership of committee
 Election of committee members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+#. At any Annual General Meeting, a ballot shall be conducted to elect the office-bearers and ordinary committee members of the association.
+#. At any Extraordinary General Meeting, where there are casual vacancies on the committee, the committee may direct that an election for those positions be held.
+#. Where an election is to be held at a meeting, that meeting's notice shall include a notice of the election being held, including what positions can be nominated for.
 #. Nominations of candidates for election as office-bearers of the association or as ordinary committee members:
+   #. shall be allowed in writing, or via an electronic means as the committee shall direct, and
+   #. shall also be allowed on the floor of the meeting where an election is to be held, and
+   #. shall only be made by the person nominating (either in writing, or at a meeting).
 
+#. Candidates shall be granted time to speak to their suitability for office at the meeting where their election is to be held.
+   #. Should the candidate not be present at that meeting, they may direct in writing that another person should speak on their behalf.
+   #. The chair of the meeting shall ensure that each candidate for a position is given equal time to speak.
 
-   #. must be made in writing, or via an electronic means as the committee shall direct.
+#. Any member of the association, where that person is conducting (or has recently conducted) an official investigation into the conduct of a nominee, shall be allowed to state at the meeting that such an investigation is or has taken place.
+   #. Such a statement shall only be made with the consent of all aggreived parties in that investigation.
 
-#. If insufficient nominations are received to fill all vacancies on the committee, the candidates nominated are taken to be elected and further nominations are to be received at the annual general meeting.
-
-#. If insufficient further nominations are received, any vacant positions remaining on the committee are taken to be casual vacancies.
-#. If the number of nominations received is equal to the number of vacancies to be filled, the persons nominated are taken to be elected.
-#. If the number of nominations received exceeds the number of vacancies to be filled, a ballot is to be held.
-#. The ballot for the election of office-bearers and ordinary committee members of the committee is to be conducted at the annual general meeting in any usual and proper manner that the committee directs.
+#. In any ballot, there shall be an option for "No Confidence". If this option is elected, the position shall be taken to be vacant.
+#. All ballots are to be conducted at the meeting in any usual and proper manner that the committee directs.
+#. In the event of a tie in a ballot, the chair of the meeting shall have the casting vote.
 #. A person nominated as a candidate for election as an office-bearer or as an ordinary committee member of the association must be a member of the association.
 
 President
@@ -431,6 +463,7 @@ Wom\*ns Officer
    #. Produce a report as they see fit regarding initiatives and policies to promote the participation and development of Wom*n in the Australian Debating Circuit.
    #. To act as a representative for Wom\*ns issues in Australian Debating where required, or to delegate someone to act on their behalf.
 
+#. The Wom\*ns Officer shall be non-cis-male.
 
 Equity Officer
 ^^^^^^^^^^^^^
@@ -447,7 +480,8 @@ Casual vacancies
 ^^^^^^^^^^^^^^^^
 
 
-#. In the event of a casual vacancy occurring in the membership of the committee, the committee may appoint a member of the association to fill the vacancy and the member so appointed is to hold office, subject to this constitution, until the annual general meeting next following the date of the appointment.
+#. In the event of a casual vacancy occurring in the membership of the committee, the committee may hold an Extraordinary General Meeting to elect a new member to the committee, subject to this constitution.
+#. Any person elected in this manner shall hold office until the annual general meeting next following the date of the appointment.
 #. A casual vacancy in the office of a member of the committee occurs if the member:
 
    #. dies, or
@@ -609,7 +643,7 @@ Quorum for general meetings
 
    #. The chair of the meeting is to be considered 'entitled to vote', and thus counts towards quorum, even if they are not a representative member.
 
-#. Five members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
+#. Seven members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
 #. 
    If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
@@ -617,8 +651,7 @@ Quorum for general meetings
    #. if convened on the requisition of members — is to be dissolved, and
    #. in any other case — is to stand adjourned to the same day in the following week at the same time and (unless another place is specified at the time of the adjournment by the person presiding at the meeting or communicated by written notice to members given before the day to which the meeting is adjourned) at the same place.
 
-#. 
-   If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum.
+#. If at the adjourned meeting a quorum is not present within half an hour after the time appointed for the commencement of the meeting, the members present (being at least 3) are to constitute a quorum.
 
 
 Presiding member
@@ -664,7 +697,7 @@ Voting
 ^^^^^^^
 
 
-#. Only Representative Members shall be entitled to vote on motions at any general meeting.
+#. Only Representative Members shall be entitled to vote on motions or elections at any general meeting.
 
    #. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting may cast a vote to break the tie.
 
@@ -673,10 +706,12 @@ Proxy Voting
 ^^^^^^^^^^^^
 
 
-#. A representative member of the association may nominate another member of the association to cast a proxy vote on their behalf at a meeting.
+#. A Representative Member of the association may nominate another member of the association to cast a proxy vote on their behalf at a meeting.
+   #. A proxy vote does not need to be cast by a member of the same debating group as the Representative Member.
 #. Such a nomination must be made in writing, and acknowledged by the chair of that meeting.
 #. Such a nomination may constrain the proxy vote to be cast.
-#. No person may act as a proxy for more than one other person.
+#. No person may act as a proxy for more than one Representative Member.
+#. This provision shall not affect the right of a Representative Member to delegate their voting rights as described in `Delegation of Voting Rights`_.
 
 
 Postal or electronic ballots
@@ -707,11 +742,10 @@ Equity
 Policies
 ^^^^^^^^^
 
-
 #. Any member of the association may draft a policy to be adopted by the association.
 #. Such policies shall then be moved, and seconded by a Representative Member.
-#. Assent of policies shall be by majority vote of the Representative Members of the council in a meeting.
-#. Modifications to policies as voted on by the Committee shall be permitted after a two-thirds vote of representative members at Council.
+#. Assent of policies shall be by majority vote of the Representative Members in a meeting.
+#. Modifications to policies as voted on by the Committee shall be permitted after a majority vote of representative members at a general meeting.
 #. The Policies of the Association shall be listed and distributed with this constitution.
 
 
