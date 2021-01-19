@@ -404,6 +404,9 @@ President
    #. Chair the meeting of the Australian Council
    #. Appoint another member of the committee to the Chair where they are unable to attend the tournament. In the first instance, this should be the Vice-President. Where the President does not make such an appointment, Council for that tournament may make the appointment.
    #. Act as a representative for the Association.
+
+       #. This representative duty shall include representing the Association (and Australian Debating) at AIDA and WUDC meetings; or delegating that responsibility to another Australian debater.
+
    #. Co-ordinate the activities of the committee.
    #. Be a signatory to any bank account of the Association.
    #. Assist a host university in seeking sponsorship.
