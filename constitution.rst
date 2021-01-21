@@ -696,7 +696,9 @@ Proxy Voting
 
 
 #. A Representative Member of the Association may nominate another member of the Association to cast a proxy vote on their behalf at a meeting.
+
    #. A proxy vote does not need to be cast by a member of the same debating group as the Representative Member.
+
 #. Such a nomination must be made in writing, and acknowledged by the chair of that meeting.
 #. Such a nomination may constrain the proxy vote to be cast.
 #. No person may act as a proxy for more than one Representative Member.
@@ -775,8 +777,7 @@ Distribution of property on winding up of Association
 
 
 #. Subject to the Act and the Regulations, in a winding up of the Association, any surplus property of the Association is to be transferred to another organisation with similar objects and which is not carried on for the profit or gain of its individual members.
-#. 
-   In this clause, a reference to the surplus property of an Association is a reference to that property of the Association remaining after satisfaction of the debts and liabilities of the Association and the costs, charges and expenses of the winding up of the Association.
+#. In this clause, a reference to the surplus property of an Association is a reference to that property of the Association remaining after satisfaction of the debts and liabilities of the Association and the costs, charges and expenses of the winding up of the Association.
 
     Note. Section 65 of the Act provides for distribution of surplus property on the winding up of an Association.
 
