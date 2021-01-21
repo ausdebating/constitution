@@ -1,10 +1,9 @@
-################################################################
-Australian Intervarsity Debating Association - Constitution 2020
-################################################################
+###############################################
+Australian Debating Council - Constitution 2021
+###############################################
 
-*A Constitution to govern the operation of the Australian Intervarsity Debating Association,
-the administration of the Easter Intervarsity Debating Championship, and the duties of the
-Host University of an Association Championship.*
+*A Constitution to govern the operation of the Australian Debating Council and
+the administration of the Easter Intervarsity Debating Championship*
 
 
 Table of Contents
@@ -20,11 +19,9 @@ Definitions
 -----------
 
 
-#. 
-   In this constitution:
+#. In this constitution:
 
-
-   * **Association** refers to the Australian Intervarsity Debating Association
+   * **Association** refers to the Australian Debating Council
    * **Composite Team** a team of participants from more than one university formed by the host university.  The composition of the team is stable for the duration of the tournament.
    * **Disputes Tribunal** is the body, which hears complaints regarding the conduct of participants at Association Championships.
    * **Non cis-male** is any person who does not currently identify as *cis-male*.
@@ -41,14 +38,20 @@ Definitions
    * the **Act** means the Associations Incorporation Act 2009.
    * the **Regulation** means the Associations Incorporation Regulation 2016.
 
-#. 
-   In this constitution:
-
+#. In this constitution:
 
    #. A reference to a function includes a reference to a power, authority and duty, and
    #. A reference to the exercise of a function includes, if the function is a duty, a reference to the performance of the duty.
    #. The provisions of the Interpretation Act 1987 apply to and in respect of this constitution in the same manner as those provisions would so apply if this constitution were an instrument made under the Act.
 
+Objects
+^^^^^^^
+
+#. The objects of the Australian Debating Council are:
+
+   #. To support and promote intervarsity debating within Australia.
+   #. To represent Australian intervarsity debaters to international debating associations.
+   #. To support the hosting of an annual Australian Intervarsity Debating Championship, commonly known as Easters.
 
 Membership
 ----------
@@ -125,7 +128,7 @@ Resignation of membership
 
 
 #. A member of the Association may resign from membership of the Association by first giving to the secretary written notice of at least 1 month (or any other period that the Committee may determine) of the member’s intention to resign and, on the expiration of the period of notice, the member ceases to be a member.
-#. If a member of the Association ceases to be a member under subclause (1), and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
+#. If a member of the Association ceases to be a member by resignation, and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
 
 
 Register of members
@@ -134,7 +137,7 @@ Register of members
 
 #. The secretary must establish and maintain a register of members of the Association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the Association together with the date on which the person became a member.
 
-   #. The secretary may construe "primary institution and debating group", within any policies set by the Committee, as they see fit.
+   #. The secretary may construe "primary institution and debating group", within any policies set by the Association, as they see fit.
    #. Generally, the "primary institution" shall be the institution at which the member last studied to attain a tertiary degree.
    #. Generally, the "primary debating group" shall be the debating group at which the member primarily participates
 
