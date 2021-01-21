@@ -623,8 +623,6 @@ Notice
 
 #. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
 #. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
-
-
 #. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under the "Annual Meeting" clause.
 #. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
@@ -638,8 +636,7 @@ Quorum for general meetings
    #. The chair of the meeting is to be considered 'entitled to vote', and thus counts towards quorum, even if they are not a representative member.
 
 #. Seven members present (being members entitled under this constitution to vote at a general meeting) constitute a quorum for the transaction of the business of a general meeting.
-#. 
-   If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
+#. If within half an hour after the appointed time for the commencement of a general meeting a quorum is not present, the meeting:
 
 
    #. if convened on the requisition of members — is to be dissolved, and
@@ -651,9 +648,7 @@ Quorum for general meetings
 Presiding member
 ^^^^^^^^^^^^^^^^^
 
-
 #. The president or, in the president’s absence, the vice-president, or in both their absence, such person as the president may see fit to appoint, is to preside as chairperson at each general meeting of the Association.
-
 
 Adjournment
 ^^^^^^^^^^^^
@@ -846,5 +841,5 @@ Financial year
 
 #. The financial year of the Association is:
 
-   #. the period of time commencing on the date of incorporation of the Association and ending on the following 31 January, and
+   #. the period of time commencing on the date of incorporation of the Association and ending on the following 31 December, and
    #. each period of 12 months after the expiration of the previous financial year of the Association, commencing on 1 January and ending on the following 31 December.
