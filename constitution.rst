@@ -28,17 +28,13 @@ Definitions
    * **Composite Team** a team of participants from more than one university formed by the host university.  The composition of the team is stable for the duration of the tournament.
    * **Disputes Tribunal** is the body, which hears complaints regarding the conduct of participants at Association Championships.
    * **Non cis-male** is any person who does not currently identify as *cis-male*.
-   * **ordinary committee member** means a member of the committee who is not an office-bearer of the association.
-   * 
-     **secretary** means:
-
+   * **Ordinary Committee Member** means a member of the committee who is not an office-bearer of the association.
+   * **Secretary** means:
 
      #. the person holding office under this constitution as secretary of the association, or
      #. if no person holds that office - the public officer of the association.
 
-   * 
-     **Extraordinary General Meeting** means a general meeting of the association other than an annual general meeting.
-
+   * **Extraordinary General Meeting** means a general meeting of the association other than an annual general meeting.
    * **Secretariat** refers to the **President**\ , **Vice President** and **Secretary** of the **Association**.
    * **Tertiary Course** means an academic programme conducted by a Schedule III institution that is a course which is an undergraduate or post graduate course leading to the award of a degree or diploma.
    * **Wom\*n’s Forum** is the body which meets to discuss issues pertaining to **non-cis men**
@@ -111,7 +107,7 @@ Cessation of membership
    #. dies, or
    #. resigns membership, or
    #. is expelled from the association, or
-   #. is determined by the committee to no longer a member of any of the debating groups associated with the association.
+   #. is determined by the committee to no longer a member of any of the debating groups associated with the association, and who is not contactable by the committee for a period of more than twelve (12) months.
 
 
 Membership entitlements not transferable
@@ -140,29 +136,22 @@ Register of members
 
    #. The secretary may construe "primary institution and debating group", within any policies set by the committee, as they see fit.
    #. Generally, the "primary institution" shall be the institution at which the member last studied to attain a tertiary degree.
-   #. Generally, the "primary debating group" shall the the debating group at which the member primarily participates
+   #. Generally, the "primary debating group" shall be the debating group at which the member primarily participates
 
-#. 
-   The register of members must be kept in New South Wales:
-
+#. The register of members must be kept in New South Wales:
 
    #. at the main premises of the association, or
    #. if the association has no premises, at the association’s official address.
 
-#. 
-   The register of members must be open for inspection, free of charge, by any member of the association at any reasonable hour.
-
+#. The register of members must be open for inspection, free of charge, by any member of the association at any reasonable hour.
 #. A member of the association may obtain a copy of any part of the register on payment of a fee of not more than $1 for each page copied.
 #. If a member requests that any information contained on the register about the member (other than the member’s name) not be available for inspection, that information must not be made available for inspection.
-#. 
-   A member must not use information about a person obtained from the register to contact or send material to the person, other than for:
-
+#. A member must not use information about a person obtained from the register to contact or send material to the person, other than for:
 
    #. the purposes of sending the person a newsletter; a notice in respect of a meeting or other event relating to the association; or other communications relating to the association, or
    #. any other purpose necessary to comply with a requirement of the Act or the Regulation.
 
-#. 
-   If the register of members is kept in electronic form:
+#. If the register of members is kept in electronic form:
 
 
    #. it must be convertible into hard copy, and
@@ -740,7 +729,6 @@ Equity
 ^^^^^^
 
 #. The association shall maintain a Code of Conduct, which shall apply at all meetings of the Council, and anywhere else which that policy directs.
-#. TODO: We need language here.
 
 Policies
 ^^^^^^^^^
