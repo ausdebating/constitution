@@ -28,11 +28,10 @@ Definitions
    * **Ordinary Committee Member** means a member of the Committee who is not an office-bearer of the Association.
    * **Secretary** means:
 
-     #. the person holding office under this constitution as secretary of the Association, or
+     #. the person holding office under this constitution as Secretary of the Association, or
      #. if no person holds that office - the public officer of the Association.
 
    * **Extraordinary General Meeting** means a general meeting of the Association other than an annual general meeting.
-   * **Secretariat** refers to the **President**\ , **Vice President** and **Secretary** of the **Association**.
    * **Tertiary Course** means an academic programme conducted by a Schedule III institution that is a course which is an undergraduate or post graduate course leading to the award of a degree or diploma.
    * **Wom\*n’s Forum** is the body which meets to discuss issues pertaining to **non-cis men**
    * the **Act** means the Associations Incorporation Act 2009.
@@ -89,16 +88,16 @@ Application for membership
 
 
    #. must be made in writing (including by email or other electronic means, if the Committee so determines) in the form determined by the Committee, and
-   #. must be lodged (including by electronic means, if the Committee so determines) with the secretary of the Association.
+   #. must be lodged (including by electronic means, if the Committee so determines) with the Secretary of the Association.
 
-#. As soon as practicable after receiving an application for membership, the secretary must refer the application to the Committee, which is to determine whether to approve or to reject the application.
+#. As soon as practicable after receiving an application for membership, the Secretary must refer the application to the Committee, which is to determine whether to approve or to reject the application.
 
-#. As soon as practicable after the Committee makes that determination, the secretary must:
+#. As soon as practicable after the Committee makes that determination, the Secretary must:
 
 
    #. notify the applicant in writing (including by email or other electronic means, if the Committee so determines) that the Committee approved or rejected the application (whichever is applicable)
 
-#. The secretary must enter or cause to be entered the applicant’s name in the register of members and, on the name being so entered, the applicant becomes a member of the Association.
+#. The Secretary must enter or cause to be entered the applicant’s name in the register of members and, on the name being so entered, the applicant becomes a member of the Association.
 
 
 Cessation of membership
@@ -127,17 +126,17 @@ Resignation of membership
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-#. A member of the Association may resign from membership of the Association by first giving to the secretary written notice of at least 1 month (or any other period that the Committee may determine) of the member’s intention to resign and, on the expiration of the period of notice, the member ceases to be a member.
-#. If a member of the Association ceases to be a member by resignation, and in every other case where a member ceases to hold membership, the secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
+#. A member of the Association may resign from membership of the Association by first giving to the Secretary written notice of at least 1 month (or any other period that the Committee may determine) of the member’s intention to resign and, on the expiration of the period of notice, the member ceases to be a member.
+#. If a member of the Association ceases to be a member by resignation, and in every other case where a member ceases to hold membership, the Secretary must make an appropriate entry in the register of members recording the date on which the member ceased to be a member.
 
 
 Register of members
 ^^^^^^^^^^^^^^^^^^^
 
 
-#. The secretary must establish and maintain a register of members of the Association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the Association together with the date on which the person became a member.
+#. The Secretary must establish and maintain a register of members of the Association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the Association together with the date on which the person became a member.
 
-   #. The secretary may construe "primary institution and debating group", within any policies set by the Association, as they see fit.
+   #. The Secretary may construe "primary institution and debating group", within any policies set by the Association, as they see fit.
    #. Generally, the "primary institution" shall be the institution at which the member last studied to attain a tertiary degree.
    #. Generally, the "primary debating group" shall be the debating group at which the member primarily participates
 
@@ -198,7 +197,7 @@ Disciplining of members
 
 #. The Committee may, by resolution, expel the member from the Association or suspend the member from membership of the Association if, after considering the complaint and any submissions made in connection with the complaint, it is satisfied that the facts alleged in the complaint have been proved and the expulsion or suspension is warranted in the circumstances.
 
-#. If the Committee expels or suspends a member, the secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken, of the reasons given by the Committee for having taken that action and of the member’s right of appeal under clause 12.
+#. If the Committee expels or suspends a member, the Secretary must, within 7 days after the action is taken, cause written notice to be given to the member of the action taken, of the reasons given by the Committee for having taken that action and of the member’s right of appeal under clause 12.
 #. The expulsion or suspension does not take effect:
 
    #. until the expiration of the period within which the member is entitled to appeal against the resolution concerned, or
@@ -210,9 +209,9 @@ Right of appeal of disciplined member
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-#. A member may appeal to the Association in general meeting against a resolution of the Committee under clause 11, within 7 days after notice of the resolution is served on the member, by lodging with the secretary a notice to that effect.
+#. A member may appeal to the Association in general meeting against a resolution of the Committee under clause 11, within 7 days after notice of the resolution is served on the member, by lodging with the Secretary a notice to that effect.
 #. The notice may, but need not, be accompanied by a statement of the grounds on which the member intends to rely for the purposes of the appeal.
-#. On receipt of a notice from a member under subclause (1), the secretary must notify the Committee, which is to convene a general meeting of the Association to be held within 28 days after the date on which the secretary received the notice.
+#. On receipt of a notice from a member under subclause (1), the Secretary must notify the Committee, which is to convene a general meeting of the Association to be held within 28 days after the date on which the Secretary received the notice.
 #. At a general meeting of the Association convened under subclause (3):
 
    #. no business other than the question of the appeal is to be transacted, and
@@ -245,7 +244,7 @@ Register of Associated Groups
    #. the Committee determines the title or office within that group which shall entitle it's holder to Representative Member status.
    #. the Committee has determined the group is the best representative of a distinct institution.
 
-      #. Where multiple groups wish to claim Association, the Committee shall decide which are eligible to be associated.
+      #. Where multiple groups wish to claim association, the Committee shall decide which are eligible to be associated.
 
    #. the Committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
 
@@ -263,11 +262,11 @@ Register of Associated Groups
 Representative Members
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Representative Members shall be members of the Association, who are specifically designated as representatives of their debating group by the secretary.
-#. The secretary shall maintain a register of Representative Members.
+#. Representative Members shall be members of the Association, who are specifically designated as representatives of their debating group by the Secretary.
+#. The Secretary shall maintain a register of Representative Members.
 #. A person ceases to be a Representative Member when they:
 
-   #. Apply to the secretary in writing to have their representative member status removed; or
+   #. Apply to the Secretary in writing to have their representative member status removed; or
    #. Cease to be a member of the Association; or
    #. Cease to hold the office which made them eligible to apply for Representative Membership; or
    #. Fail to pay the fee for representative membership (or obtain an exemption) as required by the Committee, subject to this constitution.
@@ -275,15 +274,15 @@ Representative Members
 Application for Representative Membership
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-#. Where an eligible member of the Association also holds the office listed in the Register for a given group, that member may apply to the secretary to be given the status of "Representative Member" of that group.
-#. The secretary will then certify that the applicant does hold that office.
+#. Where an eligible member of the Association also holds the office listed in the Register for a given group, that member may apply to the Secretary to be given the status of "Representative Member" of that group.
+#. The Secretary will then certify that the applicant does hold that office.
 
-   #. Should the secretary not be able to certify that person is eligible for Representative Membership; they shall refer the question of certification to the Committee for a vote.
+   #. Should the Secretary not be able to certify that person is eligible for Representative Membership; they shall refer the question of certification to the Committee for a vote.
 
 #. If there has ever been a Representative Member of that group, and that member did not pay any fees required of them, the applicant shall be required to pay that fee before assuming Representative Membership.
 #. Should a previous Representative Member for that group have paid the fee for Representative Membership in the Association's current financial year, the applicant will not be required to pay that fee again for the current financial year.
    
-#. When the secretary or Committee have certified that a person is eligible for Representative Membership, and that person has paid any fees required of them, that person shall become a Representative Member.
+#. When the Secretary or Committee have certified that a person is eligible for Representative Membership, and that person has paid any fees required of them, that person shall become a Representative Member.
 
 Delegation of Voting Rights
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -348,10 +347,10 @@ Composition and membership of Committee
 
 #. The office-bearers of the Association are as follows:
 
-   #. the president,
-   #. the vice-president,
-   #. the secretary,
-   #. the treasurer,
+   #. the President,
+   #. the Vice-President,
+   #. the Secretary,
+   #. the Treasurer,
    #. the Equity Officer,
    #. the Wom\*ns Officer.
 
@@ -388,7 +387,7 @@ Election of Committee members
 #. In any ballot, there shall be an option for "No Confidence". If this option is elected, the position shall be taken to be vacant.
 #. All ballots are to be conducted at the meeting in any usual and proper manner that the Committee directs.
 #. In the event of a tie in a ballot, the chair of the meeting shall have the casting vote.
-#. A person nominated as a candidate for election as an office-bearer or as an ordinary Committee member of the Association must be a member of the Association.
+#. A person nominated as a candidate for election as an office-bearer or as an ordinary committee member of the Association must be a member of the Association.
 
 President
 ^^^^^^^^^
@@ -424,26 +423,26 @@ Secretary
 ^^^^^^^^^
 
 
-#. The secretary of the Association must, as soon as practicable after being appointed as secretary, lodge notice with the Association of his or her address.
-#. It is the duty of the secretary to keep minutes (whether in written or electronic form) of:
+#. The Secretary of the Association must, as soon as practicable after being appointed as Secretary, lodge notice with the Association of his or her address.
+#. It is the duty of the Secretary to keep minutes (whether in written or electronic form) of:
 
 
    #. all appointments of office-bearers and members of the Committee, and
    #. the names of members of the Committee present at a Committee meeting or a general meeting, and
-   #. all proceedings at Committee meetings and general meetings, including wom*n’s forum
+   #. all proceedings at Committee meetings and general meetings, including Wom*n’s forum
 
 #. Minutes of proceedings at a meeting must be signed by the chairperson of the meeting or by the chairperson of the next succeeding meeting.
 
 #. The signature of the chairperson may be transmitted by electronic means for the purposes of subclause (3).
 
-#. The secretary shall ensure that all policies of the Committee are publically available. 
+#. The Secretary shall ensure that all policies of the Committee are publically available. 
 
 
 Treasurer
 ^^^^^^^^^
 
 
-#. It is the duty of the treasurer of the Association to ensure:
+#. It is the duty of the Treasurer of the Association to ensure:
 
    #. that all money due to the Association is collected and received and that all payments authorised by the Association are made, and
    #. that correct books and accounts are kept showing the financial affairs of the Association, including full details of all receipts and expenditure connected with the activities of the Association.
@@ -484,7 +483,7 @@ Casual vacancies
    #. dies, or
    #. ceases to be a member of the Association, or
    #. is or becomes an insolvent under administration within the meaning of the Corporations Act 2001 of the Commonwealth, or
-   #. resigns office by notice in writing given to the secretary, or
+   #. resigns office by notice in writing given to the Secretary, or
    #. is removed from office under clause 19, or
    #. becomes a mentally incapacitated person, or
    #. is absent without the consent of the Committee from 3 consecutive meetings of the Committee, or
@@ -497,7 +496,7 @@ Removal of Committee members
 
 
 #. The Association in general meeting may by resolution remove any member of the Committee from the office of member before the expiration of the member’s term of office and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
-#. If a member of the Committee to whom a proposed resolution referred to in subclause relates makes representations in writing to the secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of the Association, the secretary or the president may send a copy of the representations to each member of the Association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
+#. If a member of the Committee to whom a proposed resolution referred to in subclause relates makes representations in writing to the Secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of the Association, the Secretary or the president may send a copy of the representations to each member of the Association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
 
 
 Committee meetings and quorum
@@ -506,7 +505,7 @@ Committee meetings and quorum
 
 #. The Committee must meet at least 3 times in each period of 12 months at the place and time that the Committee may determine.
 #. Additional meetings of the Committee may be convened by the president or by any member of the Committee.
-#. Oral or written notice of a meeting of the Committee must be given by the secretary to each member of the Committee at least 48 hours (or any other period that may be unanimously agreed on by the members of the Committee) before the time appointed for the holding of the meeting.
+#. Oral or written notice of a meeting of the Committee must be given by the Secretary to each member of the Committee at least 48 hours (or any other period that may be unanimously agreed on by the members of the Committee) before the time appointed for the holding of the meeting.
 #. Notice of a meeting given under subclause must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which a two-thirds majority of representative members vote as being urgent business.
 #. Any 5 members of the Committee constitute a quorum for the transaction of the business of a meeting of the Committee.
 #. No business is to be transacted by the Committee unless a quorum is present and if, within half an hour of the time appointed for the meeting, a quorum is not present, the meeting is to stand adjourned to the same place and at the same hour of the same day in the following week.
@@ -608,10 +607,10 @@ Extraordinary general meetings - calling of
    #. must be in writing, and
    #. must state the purpose or purposes of the meeting, and
    #. must be signed by the representative members making the requisition, and
-   #. must be lodged with the secretary, and
+   #. must be lodged with the Secretary, and
    #. may consist of several documents in a similar form, each signed by one or more of the members making the requisition.
 
-#. If the Committee fails to convene an extraordinary general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the secretary, any one or more of the members who made the requisition may convene a extraordinary general meeting to be held not later than 3 months after that date.
+#. If the Committee fails to convene an extraordinary general meeting to be held within 1 month after the date on which a requisition of members for the meeting is lodged with the Secretary, any one or more of the members who made the requisition may convene a extraordinary general meeting to be held not later than 3 months after that date.
 
 #. An extraordinary general meeting convened by a member or members in the manner this clause must be convened as nearly as is practicable in the same manner as general meetings are convened by the Committee.
 #. For the purposes of this clause:
@@ -624,10 +623,10 @@ Notice
 ^^^^^^
 
 
-#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
-#. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
+#. Except if the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the Secretary must, at least 14 days before the date fixed for the holding of the general meeting, give a notice to each member specifying the place, date and time of the meeting and the nature of the business proposed to be transacted at the meeting.
+#. If the nature of the business proposed to be dealt with at a general meeting requires a special resolution of the Association, the Secretary must, at least 21 days before the date fixed for the holding of the general meeting, cause notice to be given to each member specifying, in addition to the matter required under subclause (1), the intention to propose the resolution as a special resolution.
 #. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under the "Annual Meeting" clause.
-#. A member desiring to bring any business before a general meeting may give notice in writing of that business to the secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
+#. A member desiring to bring any business before a general meeting may give notice in writing of that business to the Secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
 
 Quorum for general meetings
@@ -658,7 +657,7 @@ Adjournment
 
 
 #. The chairperson of a general meeting at which a quorum is present may, with the consent of the majority of members present at the meeting, adjourn the meeting from time to time and place to place, but no business is to be transacted at an adjourned meeting other than the business left unfinished at the meeting at which the adjournment took place.
-#. If a general meeting is adjourned for 14 days or more, the secretary must give written or oral notice of the adjourned meeting to each member of the Association stating the place, date and time of the meeting and the nature of the business to be transacted at the meeting.
+#. If a general meeting is adjourned for 14 days or more, the Secretary must give written or oral notice of the adjourned meeting to each member of the Association stating the place, date and time of the meeting and the nature of the business to be transacted at the meeting.
 #. Except as provided in subclauses and (2), notice of an adjournment of a general meeting or of the business to be transacted at an adjourned meeting is not required to be given.
 
 
