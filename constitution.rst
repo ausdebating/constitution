@@ -23,7 +23,7 @@ Definitions
 
    * **Association** refers to the Australian Debating Council
    * **Composite Team** a team of participants from more than one university formed by the host university.  The composition of the team is stable for the duration of the tournament.
-   * **Disputes Tribunal** is the body, which hears complaints regarding the conduct of participants at Association Championships.
+   * **Disputes Tribunal** is the body, which hears complaints regarding the conduct of participants at the Easter Championships.
    * **Non cis-male** is any person who does not currently identify as *cis-male*.
    * **Ordinary Committee Member** means a member of the Committee who is not an office-bearer of the Association.
    * **Secretary** means:
@@ -628,6 +628,17 @@ Notice
 #. No business other than that specified in the notice convening a general meeting is to be transacted at the meeting except, in the case of an annual general meeting, business which may be transacted under the "Annual Meeting" clause.
 #. A member desiring to bring any business before a general meeting may give notice in writing of that business to the Secretary who must include that business in the next notice calling a general meeting given after receipt of the notice from the member.
 
+Holding of meetings at the Easter Championship
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+#. The Australian Debating Council shall meet at least twice during the Easter Championship.
+#. The first meeting shall be a 'Pre-Council', prior to the first preliminary round of competition. The Pre-Council will:
+
+   #. Set the agenda for the Main Council meeting;
+   #. Determine matters of urgency that need to be resolved prior to the commencement of the tournament, including, but not limited to, exemptions to Affirmative Action and n-1 adjudicator requirements.
+
+#. The second meeting shall be the Main Council meeting.
+
 
 Quorum for general meetings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -729,7 +740,11 @@ Miscellaneous
 Equity
 ^^^^^^
 
-#. The Association shall maintain a Code of Conduct, which shall apply at all meetings of the Council, and anywhere else which that policy directs.
+#. The purpose of Equity is to provide an inclusive, safe and equitable environment for all participants in Australian debating.
+#. The Association shall maintain an Equity Policy, which shall apply at all meetings of the Council, and anywhere else which that policy directs.
+
+   #. ‘Equity policy’ refers to a code of conduct that all members of ADC must adhere to, which shall apply at all meetings of the Council, Australian Easters and anywhere else which that policy directs. In particular, the code of conduct must be informed by fairness, diversity and inclusion and protect individuals from discrimination on the basis of gender, race, sexual orientation, ESL status and other protected characteristics outlined in the equity policy.
+   #. Equity process refers to the system of mediation and dispute resolution which upholds the Equity Policy, which shall be enforced by the ADC Equity Officer and by Tournament Equity Officers. An Equity violation may give rise to disciplinary action under s2.9.
 
 Policies
 ^^^^^^^^^
