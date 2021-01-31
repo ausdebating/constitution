@@ -29,10 +29,10 @@ Definitions
    * **Secretary** means:
 
      #. the person holding office under this constitution as Secretary of the Association, or
-     #. if no person holds that office - the public officer of the Association.
+     #. if no person holds that office - the Public Officer of the Association.
 
-   * **Extraordinary General Meeting** means a general meeting of the Association other than an annual general meeting.
-   * **Tertiary Course** means an academic programme conducted by a Schedule III institution that is a course which is an undergraduate or post graduate course leading to the award of a degree or diploma.
+   * **Extraordinary General Meeting** means a general meeting of the Association other than an Annual General Meeting.
+   * **Tertiary Course** means an academic programme conducted by an accredited higher education provider that is a course which is an undergraduate or post graduate course leading to the award of a degree or diploma.
    * **Wom\*n’s Forum** is the body which meets to discuss issues pertaining to **non-cis men**
    * the **Act** means the Associations Incorporation Act 2009.
    * the **Regulation** means the Associations Incorporation Regulation 2016.
@@ -64,10 +64,9 @@ Membership generally
 
 
    #. the person is a natural person.
-   #. the person is a member of a Debating Group recognised by the Association, as defined in section
+   #. the person is a member of a Debating Group recognised by the Association.
 
 #. A person is taken to be a member of the Association if:
-
 
    #. person is a natural person, and
    #. the person was:
@@ -136,9 +135,9 @@ Register of members
 
 #. The Secretary must establish and maintain a register of members of the Association (whether in written or electronic form) specifying the name, primary institution and debating group, and postal, residential or email address of each person who is a member of the Association together with the date on which the person became a member.
 
-   #. The Secretary may construe "primary institution and debating group", within any policies set by the Association, as they see fit.
+   #. The Secretary may construe "primary institution and debating group" as they see fit, subject to the policies of the Association.
    #. Generally, the "primary institution" shall be the institution at which the member last studied to attain a tertiary degree.
-   #. Generally, the "primary debating group" shall be the debating group at which the member primarily participates
+   #. Generally, the "primary debating group" shall be the debating group at which the member primarily participates.
 
 #. The register of members must be kept in New South Wales:
 
@@ -183,7 +182,7 @@ Disciplining of members
 #. A complaint may be made to the Committee by any person that a member of the Association:
 
    #. has refused or neglected to comply with a provision or provisions of this constitution, or
-   #. has refused or neglected to comply with a policy or procedure.
+   #. has refused or neglected to comply with a policy or procedure, or
    #. has wilfully acted in a manner prejudicial to the interests of the Association.
 
 
@@ -201,7 +200,7 @@ Disciplining of members
 #. The expulsion or suspension does not take effect:
 
    #. until the expiration of the period within which the member is entitled to appeal against the resolution concerned, or
-   #. if within that period the member exercises the right of appeal, unless and until the Association confirms the resolution under clause 12,
+   #. if within that period the member exercises the right of appeal, unless and until the Association confirms the resolution after appeal,
       whichever is the later.
 
 
@@ -218,37 +217,36 @@ Right of appeal of disciplined member
    #. the Committee and the member must be given the opportunity to state their respective cases orally or in writing, or both, and
    #. the representative members present are to vote by secret ballot on the question of whether the resolution should be confirmed or revoked.
 
-#. The appeal is to be determined by a simple majority of votes cast by representative members of the Association.
+#. The appeal is to be determined by a simple majority of votes cast by representative members of the Association present.
 
 
-Register of Associated Groups
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Register of Associated Debating Groups
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-#. The Secretary of the Association must establish and maintain a register of associated institutions, and their debating groups.
+#. The Secretary of the Association must establish and maintain a register of Associated Institutions, and their Debating Groups.
 
-   #. In this section, "debating group" may be taken to be any organised group of students associated with that institution, who participate in and/or run debating tournaments.
-   #. In this section, a "title or office" of a debating group shall be taken to be a position created within that group held by one member, with some specific responsibility within that group.
+   #. In this section, "Debating Group" may be taken to be any organised group of students associated with that institution, who participate in and/or run debating tournaments.
+   #. In this section, a "title or office" of a Debating Group shall be taken to be a position created within that group held by one member, with some specific responsibility within that group.
 
 #. The Register shall contain such details as the Secretary sees fit, but must include:
 
 
-   #. The name of the institution,
-   #. The name of the debating group,
-   #. Contact details for that instituion's debating group, if they are available.
+   #. The name of the Institution,
+   #. The name of the Debating Group,
+   #. Contact details for that Instituion's debating group, if they are available.
    #. The title or office of the person who shall act as that group's representative member.
 
 #. The debating group of any tertiary education institution in Australia shall be on the register of associated groups, provided:
 
-
-   #. the Committee determines the title or office within that group which shall entitle it's holder to Representative Member status.
-   #. the Committee has determined the group is the best representative of a distinct institution.
+   #. The Committee determines the title or office within that group which shall entitle it's holder to Representative Member status.
+   #. The Committee has determined the group is the best representative of a distinct institution.
 
       #. Where multiple groups wish to claim association, the Committee shall decide which are eligible to be associated.
 
-   #. the Committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
+   #. The Committee has provisionally admitted the institution to membership for one year, or that institution was represented at a vote to create an unincorporated body that was registered as this Association.
 
-#. Where doubt arises about what constitutes a distinct 'institution' or 'debating group', the Committee may construe this as they wish, but should do so with reference to the existance of:
+#. Where doubt arises about what constitutes a distinct 'institution' or 'debating group', the Committee may construe this as they wish, but should do so with reference to the existence of:
 
 
    #. A substantially different university administration or student organisation, and a distinct identity.
@@ -256,7 +254,7 @@ Register of Associated Groups
    #. A different degree-awarding institution.
    #. Previous decisions of the Committee regarding the construction of what is an 'institution'.
 
-#. Should a member of the Association feel that the Committee has improperly exercised their discretion in subsections 1 through 4 of section 13, a motion at a general meeting, carried by a two-thirds majority, may override their decision.
+#. Should a member of the Association feel that the Committee has improperly exercised their discretion in this section, a motion at a general meeting, carried by a two-thirds majority, may override their decision.
 
 
 Representative Members
@@ -291,7 +289,7 @@ Delegation of Voting Rights
 
    #. That Representative member remains both in their office, and a member of the Association; and
    #. The delegate is also a member of the debating group whose representation is being delegated; and
-   #. The delegate is eligble to vote in the assocation (particularly, that they be at least 18 years of age); and
+   #. The delegate is eligible to vote in the association (particularly, that they be at least 18 years of age); and
 
 #. Delegation of voting rights shall not cause delegation of Representative Membership.
 #. This provision shall not affect the right of a Representative Member to allow a proxy to vote on their behalf.
@@ -309,9 +307,9 @@ Fees and subscriptions
 #. There shall be a fee of $50 (Australian Dollars) applied to representative members of the Association. This fee shall be payable once for each financial year of the Association. It shall be paid:
 
    #. Not later than 3 business days before the initial general meeting of the Association.
-   #. Not later than 3 business days before an annual general meeting of the assocation.
+   #. Not later than 3 business days before an annual general meeting of the Association.
 
-#. The Committee shall have the power to:
+#. The Committee shall have the power to, by simple majority vote:
 
    #. Reduce the fee for a Representative Member; or 
    #. Waive the fee for a Representative Member; or
@@ -382,7 +380,7 @@ Election of Committee members
 
 #. Any member of the Association, where that person is conducting (or has recently conducted) an official investigation into the conduct of a nominee, shall be allowed to state at the meeting that such an investigation is or has taken place.
 
-   #. Such a statement shall only be made with the consent of all aggreived parties in that investigation.
+   #. Such a statement shall only be made with the consent of all aggrieved parties in that investigation.
 
 #. In any ballot, there shall be an option for "No Confidence". If this option is elected, the position shall be taken to be vacant.
 #. All ballots are to be conducted at the meeting in any usual and proper manner that the Committee directs.
@@ -394,7 +392,7 @@ President
 
 #. It is the duty of the president of the Association to:
 
-   #. Chair the meeting of the Australian Council
+   #. Chair the meeting of the ADC's Annual General Meeting (also known as "Council"), and any other general meetings of the Association.
    #. Appoint another member of the Committee to the Chair where they are unable to attend the tournament. In the first instance, this should be the Vice-President. Where the President does not make such an appointment, Council for that tournament may make the appointment.
    #. Act as a representative for the Association.
 
@@ -496,7 +494,7 @@ Removal of Committee members
 
 
 #. The Association in general meeting may by resolution remove any member of the Committee from the office of member before the expiration of the member’s term of office and may by resolution appoint another person to hold office until the expiration of the term of office of the member so removed.
-#. If a member of the Committee to whom a proposed resolution referred to in subclause relates makes representations in writing to the Secretary or president (not exceeding a reasonable length) and requests that the representations be notified to the members of the Association, the Secretary or the president may send a copy of the representations to each member of the Association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
+#. If a member of the Committee would be removed by resolution in this way makes representations in writing to the Secretary or President (not exceeding a reasonable length) and requests that the representations be notified to the members of the Association, the Secretary or the president may send a copy of the representations to each member of the Association or, if the representations are not so sent, the member is entitled to require that the representations be read out at the meeting at which the resolution is considered.
 
 
 Committee meetings and quorum
@@ -506,7 +504,7 @@ Committee meetings and quorum
 #. The Committee must meet at least 3 times in each period of 12 months at the place and time that the Committee may determine.
 #. Additional meetings of the Committee may be convened by the president or by any member of the Committee.
 #. Oral or written notice of a meeting of the Committee must be given by the Secretary to each member of the Committee at least 48 hours (or any other period that may be unanimously agreed on by the members of the Committee) before the time appointed for the holding of the meeting.
-#. Notice of a meeting given under subclause must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which a two-thirds majority of representative members vote as being urgent business.
+#. Notice of a meeting must specify the general nature of the business to be transacted at the meeting and no business other than that business is to be transacted at the meeting, except business which a two-thirds majority of representative members vote as being urgent business.
 #. Any 5 members of the Committee constitute a quorum for the transaction of the business of a meeting of the Committee.
 #. No business is to be transacted by the Committee unless a quorum is present and if, within half an hour of the time appointed for the meeting, a quorum is not present, the meeting is to stand adjourned to the same place and at the same hour of the same day in the following week.
 #. If at the adjourned meeting a quorum is not present within half an hour of the time appointed for the meeting, the meeting is to be dissolved.
@@ -528,15 +526,13 @@ Delegation by Committee to sub-Committee
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-#. 
-   The Committee may, by instrument in writing, delegate to one or more sub-Committees (consisting of the member or members of the Association that the Committee thinks fit) the exercise of any of the functions of the Committee that are specified in the instrument, other than:
+#. The Committee may, by instrument in writing, delegate to one or more sub-Committees (consisting of the member or members of the Association that the Committee thinks fit) the exercise of any of the functions of the Committee that are specified in the instrument, other than:
 
 
    #. this power of delegation, and
    #. a function which is a duty imposed on the Committee by the Act or by any other law.
 
-#. 
-   A function the exercise of which has been delegated to a sub-Committee under this clause may, while the delegation remains unrevoked, be exercised from time to time by the sub-Committee in accordance with the terms of the delegation.
+#. A function the exercise of which has been delegated to a sub-Committee under this clause may, while the delegation remains unrevoked, be exercised from time to time by the sub-Committee in accordance with the terms of the delegation.
 
 #. A delegation under this clause may be made subject to any conditions or limitations as to the exercise of any function, or as to time or circumstances, that may be specified in the instrument of delegation.
 #. Despite any delegation under this clause, the Committee may continue to exercise any function delegated.
@@ -684,7 +680,7 @@ Making of decisions
 
 #. If the question is to be determined by a show of hands, a declaration by the chairperson that a resolution has, on a show of hands, been carried or carried unanimously or carried by a particular majority or lost, or an entry to that effect in the minute book of the Association, is evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against that resolution.
 
-#. Subclause applies to a method determined by the Committee under subclause (a) in the same way as it applies to a show of hands.
+#. The above provision applies to any method of voting determined by the Committee in the same way as it applies to a show of hands.
 #. If the question is to be determined by a written ballot, the ballot is to be conducted in accordance with the directions of the chairperson.
 
 
@@ -699,7 +695,7 @@ Voting
 ^^^^^^^
 
 
-#. Only Representative Members shall be entitled to vote on motions or elections at any general meeting.
+#. Only Representative Members shall be entitled to vote on motions or elections at any general meeting, or on any resolution (including special resolutions).
 
    #. In the case of an equality of votes on a question at a general meeting, the chairperson of the meeting may cast a vote to break the tie.
 
